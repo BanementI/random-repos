@@ -14,6 +14,8 @@ This is my collection of FOSS repos from the world of GitHub.
 - [csctl](https://github.com/403-Fruit/csctl) - Scripting CS:GO over Telnet.
 - [SecLists](https://github.com/danielmiessler/SecLists/) - Large repo of many lists for use in security assessments.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Large repo of paylods for Web Application Security.
+- [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. 
+
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
 
