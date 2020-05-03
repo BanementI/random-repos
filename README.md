@@ -3,8 +3,7 @@ My bookmark folder is getting too big...
 
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites.
-- [youtube-dl](link)
-- [tiktok-api](https://github.com/szdc/tiktok-api) - A reverse-engineered implementation of the TikTok (previously musical.ly) app's API.
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - A must have command-line program to download YouTube videos with support for other sites such as Reddit, Twitter, Soundcloud, etc.
 
 ### Discord
 - [NoDeletedMessages](https://github.com/Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins) - See messages even after they've been deleted.
@@ -26,3 +25,7 @@ My bookmark folder is getting too big...
 oh lawd he scrapin'
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - Scrape and download useful information from TikTok.
 - [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - OnlyFans scraper.
+
+### Other?
+ah yes, the "I might need this in the future" pile.
+- [tiktok-api](https://github.com/szdc/tiktok-api) - A reverse-engineered implementation of the TikTok (previously musical.ly) app's API.
