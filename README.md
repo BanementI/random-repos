@@ -1,5 +1,6 @@
 # random-repos
 My bookmark folder is getting too big...
+This is my collection of FOSS repos from the world of GitHub.
 
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites.
