@@ -13,7 +13,7 @@ This is my collection of FOSS repos from the world of GitHub.
 - [Apple_Bleee](https://github.com/hexway/apple_bleee) - Experimental PoC that shows what an attacker gets from Apple devices if they sniff Bluetooth traffic.
 - [csctl](https://github.com/403-Fruit/csctl) - Scripting CS:GO over Telnet.
 - [SecLists](https://github.com/danielmiessler/SecLists/) - Large repo of many lists for use in security assessments.
-
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Large repo of paylods for Web Application Security.
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
 
