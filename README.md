@@ -12,6 +12,7 @@ This is my collection of FOSS repos from the world of GitHub.
 ### Research & Proof of Concepts
 - [Apple_Bleee](https://github.com/hexway/apple_bleee) - Experimental PoC that shows what an attacker gets from Apple devices if they sniff Bluetooth traffic.
 - [csctl](https://github.com/403-Fruit/csctl) - Scripting CS:GO over Telnet.
+- [SecLists](https://github.com/danielmiessler/SecLists/) - Large repo of many lists for use in security assessments.
 
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
@@ -26,6 +27,7 @@ This is my collection of FOSS repos from the world of GitHub.
 oh lawd he scrapin'
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - Scrape and download useful information from TikTok.
 - [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - OnlyFans scraper.
+- [imgur-scraper](https://github.com/aqswdefr746/imgur-scraper) - Randomly generates imgur IDs and, if valid, downloads them.
 
 ### Other?
 ah yes, the "I might need this in the future" pile.
