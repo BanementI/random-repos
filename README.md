@@ -36,16 +36,18 @@ oh lawd he scrapin'
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
 
-### Alternative frontends to social media (and web searching)
+### Alternative frontends to websites
 - [Bibliogram](https://github.com/cloudrac3r/bibliogram/) - Instagram.
 - [Invidious](https://github.com/omarroth/invidious/) - YouTube.
 - [Nitter](https://github.com/zedeus/nitter/) - Twitter.
 - [Searx](https://github.com/asciimoo/searx) - Search engine.
 
-
 ### File Sharing
 Not many repos but I don't care, my bookmarks folder is getting big.
 - [Skynet](https://siasky.net/) - Decentralised CDN and file sharing platform
+
+### Terminal
+- [HTTPie](https://github.com/jakubroztocil/httpie) - Replacement for curl. It's great.
 
 ### Other?
 ah yes, the "I might need this in the future" pile.
@@ -58,4 +60,3 @@ ah yes, the "I might need this in the future" pile.
 - [SZS](https://szs.wiimm.de/) - Not a repo. A toolset of things to use to...rip Mario Kart Wii files?
 - [Atomizer](https://github.com/acss-io/atomizer) - Tool for creating Atomic CSS. Not sure what that is tbh.
 
-. 
