@@ -5,6 +5,8 @@ This is my collection of FOSS repos from the world of GitHub.
 ### Other repos
 A repository in a repository?
 - [List of Ephermeral File Sharing Services](https://gist.github.com/Prajjwal/2226c6a96d1d72abc713e889160a9f81) - List of...file sharing services. That are also open source I think.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners and more.
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Leads to even more repos about hacking.
 
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites.
@@ -32,6 +34,7 @@ oh lawd he scrapin'
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. 
 - [Nikto](https://github.com/sullo/nikto) - Web server scanner, it's pretty good I think.
 - [Thunderspy](https://thunderspy.io/) - Vunerability based on the Thunderbolt port. Allows for an evil maid attack that grants you access in about 5 minutes, but needs other computers to do it.
+- [Intrigue-Core](https://github.com/intrigueio/intrigue-core) - Automation framework for external attack surface.
 
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
@@ -46,8 +49,10 @@ oh lawd he scrapin'
 Not many repos but I don't care, my bookmarks folder is getting big.
 - [Skynet](https://siasky.net/) - Decentralised CDN and file sharing platform
 
-### Terminal
+### Terminal / CLI
 - [HTTPie](https://github.com/jakubroztocil/httpie) - Replacement for curl. It's great.
+- [dstask](https://github.com/naggie/dstask) - Personal task tracker.
+
 
 ### Other?
 ah yes, the "I might need this in the future" pile.
@@ -59,4 +64,3 @@ ah yes, the "I might need this in the future" pile.
 - [CSSProperly](https://github.com/jevakallio/css-properly) - PostCSS plugin to let you use words properly. Like, colour instead of color.
 - [SZS](https://szs.wiimm.de/) - Not a repo. A toolset of things to use to...rip Mario Kart Wii files?
 - [Atomizer](https://github.com/acss-io/atomizer) - Tool for creating Atomic CSS. Not sure what that is tbh.
-
