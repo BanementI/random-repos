@@ -7,7 +7,7 @@ A repository in a repository?
 - [List of Ephermeral File Sharing Services](https://gist.github.com/Prajjwal/2226c6a96d1d72abc713e889160a9f81) - List of...file sharing services. That are also open source I think.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners and more.
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Leads to even more repos about hacking.
-
+- [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - A must have command-line program to download YouTube videos with support for other sites such as Reddit, Twitter, Soundcloud, etc.
