@@ -53,6 +53,8 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [HTTPie](https://github.com/jakubroztocil/httpie) - Replacement for curl. It's great.
 - [dstask](https://github.com/naggie/dstask) - Personal task tracker.
 
+### Web servers
+- [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
 
 ### Other?
 ah yes, the "I might need this in the future" pile.
