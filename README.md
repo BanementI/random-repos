@@ -56,6 +56,10 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 ### Web servers
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
 
+### Burners
+oh my god there are so many available
+- [Burn Notice](https://github.com/burn-notice/burn-notice)
+
 ### Other?
 ah yes, the "I might need this in the future" pile.
 - [tiktok-api](https://github.com/szdc/tiktok-api) - A reverse-engineered implementation of the TikTok (previously musical.ly) app's API.
