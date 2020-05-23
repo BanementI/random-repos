@@ -60,6 +60,9 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 oh my god there are so many available
 - [Burn Notice](https://github.com/burn-notice/burn-notice)
 
+### Blocklists
+- [Energized Protection](https://github.com/EnergizedProtection/block)
+
 ### Other?
 ah yes, the "I might need this in the future" pile.
 - [tiktok-api](https://github.com/szdc/tiktok-api) - A reverse-engineered implementation of the TikTok (previously musical.ly) app's API.
