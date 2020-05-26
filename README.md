@@ -10,6 +10,7 @@ A repository in a repository?
 - [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
 - [Security Tools](https://tools.tldr.run/) - Tools for hackers and builders.
 - [scrapers](https://github.com/cassidoo/scrapers) - List of web scrapers, 2018.
+- [How To Be God of Mirror Links](https://github.com/Drovosek01/how-to-be-god-of-mirror-links/blob/master/docs/en-US/files-hostings-list.md) - Become god. Of mirror links.
 
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites.
@@ -55,6 +56,8 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 ### Terminal / CLI
 - [HTTPie](https://github.com/jakubroztocil/httpie) - Replacement for curl. It's great.
 - [dstask](https://github.com/naggie/dstask) - Personal task tracker.
+- [TaskWarrior](https://github.com/GothenburgBitFactory/taskwarrior) - A better personal and more extensive task tracker.
+- [thefuck](https://github.com/nvbn/thefuck) - Correct your previous mistyped command by expressing your anger.
 
 ### Web servers
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
