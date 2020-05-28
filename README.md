@@ -39,6 +39,9 @@ oh lawd he scrapin'
 - [Nikto](https://github.com/sullo/nikto) - Web server scanner, it's pretty good I think.
 - [Thunderspy](https://thunderspy.io/) - Vunerability based on the Thunderbolt port. Allows for an evil maid attack that grants you access in about 5 minutes, but needs other computers to do it.
 - [Intrigue-Core](https://github.com/intrigueio/intrigue-core) - Automation framework for external attack surface.
+- [honggfuzz](https://github.com/google/honggfuzz) - A fuzzer that appears to be good. Made by Google.
+- [HAL](https://github.com/emsec/hal) - Hardware analyzer. Don't ask me how to use this.
+
 
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
@@ -79,3 +82,9 @@ ah yes, the "I might need this in the future" pile.
 - [CSSProperly](https://github.com/jevakallio/css-properly) - PostCSS plugin to let you use words properly. Like, colour instead of color.
 - [SZS](https://szs.wiimm.de/) - Not a repo. A toolset of things to use to...rip Mario Kart Wii files?
 - [Atomizer](https://github.com/acss-io/atomizer) - Tool for creating Atomic CSS. Not sure what that is tbh.
+- [Free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15. What?
+- [Fosite](https://github.com/ory/fosite) - Extensible security-first OAuth 2.0 and OpenID Connect SDK for Go.
+- [Nanos](https://github.com/nanovms/nanos) - A kernel designed to run only one application in a virtualized environment.
+- [GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - Whisteblowing software.
+
+
