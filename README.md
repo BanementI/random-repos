@@ -16,6 +16,8 @@ A repository in a repository?
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - A must have command-line program to download YouTube videos with support for other sites such as Reddit, Twitter, Soundcloud, etc.
 - [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self hosted Youtube downloader built on whatever the hell Material Design is.
+- [SponSkrub](https://github.com/faissaloo/SponSkrub) - Strip advertisements from downloaded Youtube videos, which makes use of [SponserBlockServer API](https://github.com/ajayyy/SponsorBlockServer).
+
 
 ### Scrapers
 oh lawd he scrapin'
@@ -42,7 +44,6 @@ oh lawd he scrapin'
 - [honggfuzz](https://github.com/google/honggfuzz) - A fuzzer that appears to be good. Made by Google.
 - [HAL](https://github.com/emsec/hal) - Hardware analyzer. Don't ask me how to use this.
 
-
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
 
@@ -64,6 +65,9 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 
 ### Web servers
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
+
+### Browser Addons
+- [SponserBlock](https://github.com/ajayyy/SponsorBlock) - Skip sponsorships in videos, all community reported. [Has it's own API](https://github.com/ajayyy/SponsorBlockServer).
 
 ### Burners
 oh my god there are so many available
