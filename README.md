@@ -44,7 +44,8 @@ oh lawd he scrapin'
 - [honggfuzz](https://github.com/google/honggfuzz) - A fuzzer that appears to be good. Made by Google.
 - [HAL](https://github.com/emsec/hal) - Hardware analyzer. Don't ask me how to use this.
 - [fsociety](https://github.com/Manisso/fsociety) - Mr. Robot in real life, a hacker's toolkit.
-
+- [CMSmap](https://github.com/Dionach/CMSmap) - CMS scanner that automates the process of detecting security flaws of the most popular CMSs. 
+- [Artillery](https://github.com/BinaryDefense/artillery) - Blue team tools to protect Linux and Windows OS through multiple methods.
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
 
