@@ -43,6 +43,7 @@ oh lawd he scrapin'
 - [Intrigue-Core](https://github.com/intrigueio/intrigue-core) - Automation framework for external attack surface.
 - [honggfuzz](https://github.com/google/honggfuzz) - A fuzzer that appears to be good. Made by Google.
 - [HAL](https://github.com/emsec/hal) - Hardware analyzer. Don't ask me how to use this.
+- [fsociety](https://github.com/Manisso/fsociety) - Mr. Robot in real life, a hacker's toolkit.
 
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
