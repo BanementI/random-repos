@@ -92,5 +92,6 @@ ah yes, the "I might need this in the future" pile.
 - [Fosite](https://github.com/ory/fosite) - Extensible security-first OAuth 2.0 and OpenID Connect SDK for Go.
 - [Nanos](https://github.com/nanovms/nanos) - A kernel designed to run only one application in a virtualized environment.
 - [GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - Whisteblowing software.
-
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Android screensharing with control, using tethering.
+- [Ventoy](https://github.com/ventoy/Ventoy) - Bootable USB solution that allows you to creative live OSs on the go. 
 
