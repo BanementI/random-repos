@@ -17,6 +17,7 @@ A repository in a repository?
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - A must have command-line program to download YouTube videos with support for other sites such as Reddit, Twitter, Soundcloud, etc.
 - [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self hosted Youtube downloader built on whatever the hell Material Design is.
 - [SponSkrub](https://github.com/faissaloo/SponSkrub) - Strip advertisements from downloaded Youtube videos, which makes use of [SponserBlockServer API](https://github.com/ajayyy/SponsorBlockServer).
+- [SteamScreenshotDownloader](https://github.com/garrynewman/SteamScreenshotDownloader) - Mass download a users screenshots, made by Garry Newman.
 
 
 ### Scrapers
