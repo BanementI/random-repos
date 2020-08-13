@@ -47,6 +47,8 @@ oh lawd he scrapin'
 - [fsociety](https://github.com/Manisso/fsociety) - Mr. Robot in real life, a hacker's toolkit.
 - [CMSmap](https://github.com/Dionach/CMSmap) - CMS scanner that automates the process of detecting security flaws of the most popular CMSs. 
 - [Artillery](https://github.com/BinaryDefense/artillery) - Blue team tools to protect Linux and Windows OS through multiple methods.
+- [ReVoLTE](https://revolte-attack.net/) - Vulnerability in the Voice over LTE protocol that can break the encryption on 4G voice calls.
+- [Mobile Sentinel](https://github.com/RUB-SysSec/mobile_sentinel) - Android app to detect vulnerable LTE and 5G networks. Focuses on ReVoLTE.
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
 
