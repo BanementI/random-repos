@@ -71,6 +71,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 
 ### Browser Addons
 - [SponserBlock](https://github.com/ajayyy/SponsorBlock) - Skip sponsorships in videos, all community reported. [Has it's own API](https://github.com/ajayyy/SponsorBlockServer).
+- [Fuzzify.me](https://github.com/d4t4x/facebook-cleaner) - Helps you understand how Facebook targets you with adverts.
 
 ### Burners
 oh my god there are so many available
@@ -78,6 +79,9 @@ oh my god there are so many available
 
 ### Blocklists
 - [Energized Protection](https://github.com/EnergizedProtection/block)
+
+### Smartwatches
+- [Huami-Token](https://github.com/argrento/huami-token) - Get your auth token from Huami without needing a rooted phone. (Python)
 
 ### Other?
 ah yes, the "I might need this in the future" pile.
