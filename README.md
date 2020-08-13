@@ -103,3 +103,4 @@ ah yes, the "I might need this in the future" pile.
 - [Ventoy](https://github.com/ventoy/Ventoy) - Bootable USB solution that allows you to creative live OSs on the go. 
 - 🔞[Intiface Game Haptics Router](https://github.com/intiface/intiface-game-haptics-router) - Reroute the rumble meant for controllers to, um, something else. 🔞
 - 🔞[Intiface Console Game Haptics Router](https://github.com/intiface/intiface-console-game-haptics-router) - Ditto, but for consoles. 🔞
+- [SCAT](https://github.com/fgsect/scat) - It's not fetish, I swear.
