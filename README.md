@@ -49,7 +49,7 @@ oh lawd he scrapin'
 - [Artillery](https://github.com/BinaryDefense/artillery) - Blue team tools to protect Linux and Windows OS through multiple methods.
 - [ReVoLTE](https://revolte-attack.net/) - Vulnerability in the Voice over LTE protocol that can break the encryption on 4G voice calls.
 - [Mobile Sentinel](https://github.com/RUB-SysSec/mobile_sentinel) - Android app to detect vulnerable LTE and 5G networks. Focuses on ReVoLTE.
-- [StartFlagExploit](https://github.com/ChickenHook/StartFlagExploit) - Exploit that can cause all system services to die.
+- [StartFlagExploit](https://github.com/ChickenHook/StartFlagExploit) - Exploit that can cause all system services to die. Thus causing a phone to crash.
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
 
