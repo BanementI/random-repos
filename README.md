@@ -77,8 +77,8 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [Fuzzify.me](https://github.com/d4t4x/facebook-cleaner) - Helps you understand how Facebook targets you with adverts.
 
 ### Burners
-oh my god there are so many available
 - [Burn Notice](https://github.com/burn-notice/burn-notice)
+- [AnonAddy](https://github.com/anonaddy/anonaddy)
 
 ### Blocklists
 - [Energized Protection](https://github.com/EnergizedProtection/block)
