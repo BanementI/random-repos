@@ -85,6 +85,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 
 ### Smartwatches
 - [Huami-Token](https://github.com/argrento/huami-token) - Get your auth token from Huami without needing a rooted phone. (Python)
+- [GadgetBridge](https://codeberg.org/Freeyourgadget/Gadgetbridge/) - Free, cloudless and offline app to control your smartwatch without corporations consooming your data. I use this.
 
 ### Other?
 ah yes, the "I might need this in the future" pile.
