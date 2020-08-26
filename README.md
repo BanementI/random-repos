@@ -27,6 +27,7 @@ oh lawd he scrapin'
 - [imgur-scraper](https://github.com/aqswdefr746/imgur-scraper) - Randomly generates imgur IDs and, if valid, downloads them.
 - [Lil Ripper](https://github.com/pauliusbaulius/lil_ripper) - Downloads media from subreddits and 4chan threads.
 - [N!gga.services](https://nigga.services/) - Not a repo, I love the name, but it's basically a scraper. It grabs random images from imgur, prntscr, gyazo, maybe others.
+- [Monkey-DL](https://github.com/Oshan96/monkey-dl) - Bulk download anime.
 
 ### Discord
 - [NoDeletedMessages](https://github.com/Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins) - See messages even after they've been deleted.
