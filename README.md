@@ -50,6 +50,7 @@ oh lawd he scrapin'
 - [ReVoLTE](https://revolte-attack.net/) - Vulnerability in the Voice over LTE protocol that can break the encryption on 4G voice calls.
 - [Mobile Sentinel](https://github.com/RUB-SysSec/mobile_sentinel) - Android app to detect vulnerable LTE and 5G networks. Focuses on ReVoLTE.
 - [StartFlagExploit](https://github.com/ChickenHook/StartFlagExploit) - Exploit that can cause all system services to die. Thus causing a phone to crash.
+
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
 
@@ -89,6 +90,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 
 ### Other?
 ah yes, the "I might need this in the future" pile.
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Batch scripts to activate Microsoft products using HWID, KMS38 or Online KMS methods.
 - [tiktok-api](https://github.com/szdc/tiktok-api) - A reverse-engineered implementation of the TikTok (previously musical.ly) app's API.
 - [Legendary](https://github.com/derrod/legendary) - Replacement for Epic Games Launcher.
 - [Torrent-net](https://github.com/lmatteis/torrent-net) - Umm, I don't actually know what this does.
