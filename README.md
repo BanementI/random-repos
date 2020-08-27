@@ -24,6 +24,31 @@ A repository in a repository?
 - [get-iplayer](https://github.com/get-iplayer/get_iplayer) - Download videos from BBC iPlayer/BBC Sounds.
 - [Monkey-DL](https://github.com/Oshan96/monkey-dl) - Bulk download anime.
 
+### The \*arr suite
+Things that go hand in hand with Sonarr.
+Sorry, no hard arr's here.
+https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_and_software/
+- [Sonarr](https://github.com/Sonarr/Sonarr) - For TV shows.
+- [Bazarr](https://github.com/morpheus65535/bazarr) - For subtitles.
+- [Radarr](https://github.com/Radarr/Radarr) - For movies.
+- [Readarr](https://github.com/Readarr/Readarr) - For ebooks.
+- [Lidarr](https://github.com/lidarr/Lidarr) - For music.
+- [Jackett](https://github.com/Jackett/Jackett) - For torrents.
+- [Mylar3](https://github.com/mylar3/mylar3) - For comics.
+- [Bonarr](https://github.com/bonarr/Bonarr)- For porn. (Dead though).
+- [Traktarr](https://github.com/l3uddz/traktarr) - Script for adding series and movies based on Trakt lists.
+- [Syncarr](https://github.com/syncarr/syncarr) - Sync Radarr, Sonarr or Lidarr instances.
+- [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Automatic health checks on files and scripts to change media containers. For example, reduction in file size with little to no quality loss BUT it requires treancsoding.
+- [Organizr](https://github.com/causefx/Organizr) - Organises all services running into neat tabs with a rich interface.
+- [Ombi](https://github.com/tidusjar/Ombi) - For Plex and Emby.
+- [Bobarr](https://github.com/bonarr/Bonarr) - Radarr, Sonarr and Jackett all together, with a VPN and running in docker.
+- [Mellow](https://github.com/v0idp/Mellow) - Communicates with serveral other APIs like Ombi, Sonarr, Radarr and Tautlli and use those services in your Discord client.
+- [Wantarr](https://github.com/l3uddz/wantarr) - CLI for Sonarr and Radarr.
+- [Requestrr](https://github.com/darkalfx/requestrr) - Chatbot for adding stuff to Sonarr, Radarr and Ombi.
+- [Unpackerr](https://github.com/davidnewhall/unpackerr) - Checks for completed downloads and extracts them to Radarr/Sonarr/Lidarr.
+
+
+
 ### Scrapers
 oh lawd he scrapin'
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - Scrape and download useful information from TikTok.
@@ -35,7 +60,7 @@ oh lawd he scrapin'
 ### Discord
 - [NoDeletedMessages](https://github.com/Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins) - See messages even after they've been deleted.
 - [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file.
-- [Mellow](https://github.com/v0idp/Mellow) - Communicates with serveral other APIs like Ombi, Sonarr, Radarr and Tautlli and use those services in your Discord client. Why would you want to do that, anyway?
+
 
 ### Research & Proof of Concepts
 - [Apple_Bleee](https://github.com/hexway/apple_bleee) - Experimental PoC that shows what an attacker gets from Apple devices if they sniff Bluetooth traffic.
@@ -58,6 +83,7 @@ oh lawd he scrapin'
 - [CrocodileHunter](https://github.com/EFForg/crocodilehunter) - Detect fake eNodeBs, aka IMSI catchers / the stuff cops use to intercept your phone.
 - [IMSI Catcher Detector](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/) - Ditto, but for your phone.
 - [simplewall](https://www.henrypp.org/product/simplewall) - Block everything from connecting to the Internet, only allow what you want.
+- [horcux](https://github.com/jesseduffield/horcrux) - Split files up into encrypted parts.
 
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
