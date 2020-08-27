@@ -147,7 +147,6 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 
 ### Other?
 ah yes, the "I might need this in the future" pile.
-- [Urbit](https://urbit.org/) - I gotta read more into this.
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Batch scripts to activate Microsoft products using HWID, KMS38 or Online KMS methods.
 - [tiktok-api](https://github.com/szdc/tiktok-api) - A reverse-engineered implementation of the TikTok (previously musical.ly) app's API.
 - [Legendary](https://github.com/derrod/legendary) - Replacement for Epic Games Launcher.
@@ -169,3 +168,10 @@ ah yes, the "I might need this in the future" pile.
 - [MLA](https://github.com/ANSSI-FR/MLA) - A pure rusy encrypted and compressed archive file format.
 - [lyrebird](https://github.com/chxrlt/lyrebird) - Simple and powerful voice changer for Linux
 - [pdfbook2](https://github.com/jenom/pdfbook2) - Turn pdf files into print-ready booklets.
+
+### To make a summery out of:
+https://github.com/kaitai-io/kaitai_struct
+https://urbit.org/
+https://ciechanow.ski/color-spaces/
+https://www.11ty.dev/docs/
+https://github.com/martijnvanbrummelen/nwipe
