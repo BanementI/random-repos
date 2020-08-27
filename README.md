@@ -23,6 +23,9 @@ A repository in a repository?
 - [SteamScreenshotDownloader](https://github.com/garrynewman/SteamScreenshotDownloader) - Mass download a users screenshots, made by Garry Newman.
 - [get-iplayer](https://github.com/get-iplayer/get_iplayer) - Download videos from BBC iPlayer/BBC Sounds.
 - [Monkey-DL](https://github.com/Oshan96/monkey-dl) - Bulk download anime.
+- [sndcld-dl](https://github.com/Sweets/sndcld-dl) - Download an artist's tracks.
+- [soundcloud-dl](https://github.com/Suyash458/soundcloud-dl)- Download an artist's likes. (Mysteriously fails to download artist tracks, only likes.)
+
 
 ### The \*arr suite
 Things that go hand in hand with Sonarr.
@@ -56,11 +59,13 @@ oh lawd he scrapin'
 - [imgur-scraper](https://github.com/aqswdefr746/imgur-scraper) - Randomly generates imgur IDs and, if valid, downloads them.
 - [Lil Ripper](https://github.com/pauliusbaulius/lil_ripper) - Downloads media from subreddits and 4chan threads.
 - [N!gga.services](https://nigga.services/) - Not a repo, I love the name, but it's basically a scraper. It grabs random images from imgur, prntscr, gyazo, maybe others.
+- [SecretAgent](https://secretagent.dev/) - Headless web browser for scraping.
+- [State Of Scraping](https://stateofscraping.org/) - Detailed analysis of bot detection methods.
 
 ### Discord
 - [NoDeletedMessages](https://github.com/Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins) - See messages even after they've been deleted.
 - [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file.
-
+- [CutTheCord](https://gitdab.com/distok/cutthecord) - Alternative Discord client for Android.
 
 ### Research & Proof of Concepts
 - [Apple_Bleee](https://github.com/hexway/apple_bleee) - Experimental PoC that shows what an attacker gets from Apple devices if they sniff Bluetooth traffic.
@@ -93,6 +98,7 @@ oh lawd he scrapin'
 - [Invidious](https://github.com/omarroth/invidious/) - YouTube.
 - [Nitter](https://github.com/zedeus/nitter/) - Twitter.
 - [Searx](https://github.com/asciimoo/searx) - Search engine.
+- [G Desktop Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Sutie as a desktop app./
 
 ### File Sharing
 Not many repos but I don't care, my bookmarks folder is getting big.
@@ -105,6 +111,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [thefuck](https://github.com/nvbn/thefuck) - Correct your previous mistyped command by expressing your anger.
 - [Deelay.me](https://deelay.me/) - Delay HTTP requests by a number of milliseconds by using this as a proxy.
 - [ghorg](https://github.com/gabrie30/ghorg) - Clone an entire user/org's repositories into one directory. Supports GitHub, GitLab and Bitbucket.
+- [PseudoVym](https://github.com/tylerdotrar/PseudoVym) - Vim, but in PowerShell.
 
 ### Web servers
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
@@ -134,8 +141,13 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Calculate...power supply.
 - [Shared Piano](https://musiclab.chromeexperiments.com/Shared-Piano/) - Share a piano with people.
 
+### Bootable USB OS
+- [ShredOS](https://github.com/PartialVolume/shredos.2020.02) - Sole purpose of securely erasing the entire contents of your disks using [nwipe](https://github.com/martijnvanbrummelen/nwipe).
+- [Ventoy](https://github.com/ventoy/Ventoy) - Bootable USB solution that allows you to creative live OSs on the go. 
+
 ### Other?
 ah yes, the "I might need this in the future" pile.
+- [Urbit](https://urbit.org/) - I gotta read more into this.
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Batch scripts to activate Microsoft products using HWID, KMS38 or Online KMS methods.
 - [tiktok-api](https://github.com/szdc/tiktok-api) - A reverse-engineered implementation of the TikTok (previously musical.ly) app's API.
 - [Legendary](https://github.com/derrod/legendary) - Replacement for Epic Games Launcher.
@@ -150,10 +162,10 @@ ah yes, the "I might need this in the future" pile.
 - [Nanos](https://github.com/nanovms/nanos) - A kernel designed to run only one application in a virtualized environment.
 - [GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - Whisteblowing software.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Android screensharing with control, using tethering.
-- [Ventoy](https://github.com/ventoy/Ventoy) - Bootable USB solution that allows you to creative live OSs on the go. 
 - 🔞[Intiface Game Haptics Router](https://github.com/intiface/intiface-game-haptics-router) - Reroute the rumble meant for controllers to, um, something else. 🔞
 - 🔞[Intiface Console Game Haptics Router](https://github.com/intiface/intiface-console-game-haptics-router) - Ditto, but for consoles. 🔞
 - [SCAT](https://github.com/fgsect/scat) - It's not fetish, I swear.
 - [SpotMux](https://github.com/dmgutierrez/spotify-musixmatch-data-collector) - Python module to collect datasets from Spotify and MusicMatch.
 - [MLA](https://github.com/ANSSI-FR/MLA) - A pure rusy encrypted and compressed archive file format.
 - [lyrebird](https://github.com/chxrlt/lyrebird) - Simple and powerful voice changer for Linux
+- [pdfbook2](https://github.com/jenom/pdfbook2) - Turn pdf files into print-ready booklets.
