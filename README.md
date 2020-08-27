@@ -1,6 +1,7 @@
 # random-repos
 My bookmark folder is getting too big...
 This is my collection of FOSS repos from the world of GitHub.
+DISCLAIMER: I haven't used like 90% of the stuff here. Something might work, might not.
 
 ### Other repos
 A repository in a repository?
@@ -11,6 +12,8 @@ A repository in a repository?
 - [Security Tools](https://tools.tldr.run/) - Tools for hackers and builders.
 - [scrapers](https://github.com/cassidoo/scrapers) - List of web scrapers, 2018.
 - [How To Be God of Mirror Links](https://github.com/Drovosek01/how-to-be-god-of-mirror-links/blob/master/docs/en-US/files-hostings-list.md) - Become god. Of mirror links.
+- [Square](https://square.github.io/) - A company that has contributed a dozen open source apps. Or something like that.
+- [Netflix](https://netflix.github.io/) - Netflix relies on open source software to run it's service. This is what they use.
 
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites.
@@ -51,6 +54,10 @@ oh lawd he scrapin'
 - [ReVoLTE](https://revolte-attack.net/) - Vulnerability in the Voice over LTE protocol that can break the encryption on 4G voice calls.
 - [Mobile Sentinel](https://github.com/RUB-SysSec/mobile_sentinel) - Android app to detect vulnerable LTE and 5G networks. Focuses on ReVoLTE.
 - [StartFlagExploit](https://github.com/ChickenHook/StartFlagExploit) - Exploit that can cause all system services to die. Thus causing a phone to crash.
+- [Dangerzone](https://github.com/firstlookmedia/dangerzone) - Opens potentially dangerous documents by stripping them and putting them back together again.
+- [CrocodileHunter](https://github.com/EFForg/crocodilehunter) - Detect fake eNodeBs, aka IMSI catchers / the stuff cops use to intercept your phone.
+- [IMSI Catcher Detector](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/) - Ditto, but for your phone.
+- [simplewall](https://www.henrypp.org/product/simplewall) - Block everything from connecting to the Internet, only allow what you want.
 
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
@@ -70,6 +77,8 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [dstask](https://github.com/naggie/dstask) - Personal task tracker.
 - [TaskWarrior](https://github.com/GothenburgBitFactory/taskwarrior) - A better personal and more extensive task tracker.
 - [thefuck](https://github.com/nvbn/thefuck) - Correct your previous mistyped command by expressing your anger.
+- [Deelay.me](https://deelay.me/) - Delay HTTP requests by a number of milliseconds by using this as a proxy.
+- [ghorg](https://github.com/gabrie30/ghorg) - Clone an entire user/org's repositories into one directory. Supports GitHub, GitLab and Bitbucket.
 
 ### Web servers
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
@@ -88,6 +97,16 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 ### Smartwatches
 - [Huami-Token](https://github.com/argrento/huami-token) - Get your auth token from Huami without needing a rooted phone. (Python)
 - [GadgetBridge](https://codeberg.org/Freeyourgadget/Gadgetbridge/) - Free, cloudless and offline app to control your smartwatch without corporations consooming your data. I use this.
+
+### Apps
+- [Warden](https://gitlab.com/AuroraOSS/AppWarden) - Scans your Android device for apps that have tracker and loggers.
+
+### Web Apps
+- [HexEd.it](https://hexed.it/) - Browser-based online and offline hex editor.
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh/) - Compression and compare images in your browser.
+- [svgomg](https://jakearchibald.github.io/svgomg/) - Ditto, but for SVGs.
+- [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Calculate...power supply.
+- [Shared Piano](https://musiclab.chromeexperiments.com/Shared-Piano/) - Share a piano with people.
 
 ### Other?
 ah yes, the "I might need this in the future" pile.
@@ -110,3 +129,5 @@ ah yes, the "I might need this in the future" pile.
 - 🔞[Intiface Console Game Haptics Router](https://github.com/intiface/intiface-console-game-haptics-router) - Ditto, but for consoles. 🔞
 - [SCAT](https://github.com/fgsect/scat) - It's not fetish, I swear.
 - [SpotMux](https://github.com/dmgutierrez/spotify-musixmatch-data-collector) - Python module to collect datasets from Spotify and MusicMatch.
+- [MLA](https://github.com/ANSSI-FR/MLA) - A pure rusy encrypted and compressed archive file format.
+- [lyrebird](https://github.com/chxrlt/lyrebird) - Simple and powerful voice changer for Linux
