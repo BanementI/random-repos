@@ -14,6 +14,9 @@ A repository in a repository?
 - [How To Be God of Mirror Links](https://github.com/Drovosek01/how-to-be-god-of-mirror-links/blob/master/docs/en-US/files-hostings-list.md) - Become god. Of mirror links.
 - [Square](https://square.github.io/) - A company that has contributed a dozen open source apps. Or something like that.
 - [Netflix](https://netflix.github.io/) - Netflix relies on open source software to run it's service. This is what they use.
+- [SecLists](https://github.com/danielmiessler/SecLists/) - Large repo of many lists for use in security assessments.
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Large repo of paylods for Web Application Security.
+- [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. 
 
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites.
@@ -70,9 +73,6 @@ oh lawd he scrapin'
 ### Research & Proof of Concepts
 - [Apple_Bleee](https://github.com/hexway/apple_bleee) - Experimental PoC that shows what an attacker gets from Apple devices if they sniff Bluetooth traffic.
 - [csctl](https://github.com/403-Fruit/csctl) - Scripting CS:GO over Telnet.
-- [SecLists](https://github.com/danielmiessler/SecLists/) - Large repo of many lists for use in security assessments.
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Large repo of paylods for Web Application Security.
-- [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. 
 - [Nikto](https://github.com/sullo/nikto) - Web server scanner, it's pretty good I think.
 - [Thunderspy](https://thunderspy.io/) - Vunerability based on the Thunderbolt port. Allows for an evil maid attack that grants you access in about 5 minutes, but needs other computers to do it.
 - [Intrigue-Core](https://github.com/intrigueio/intrigue-core) - Automation framework for external attack surface.
