@@ -53,8 +53,6 @@ https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_an
 - [Requestrr](https://github.com/darkalfx/requestrr) - Chatbot for adding stuff to Sonarr, Radarr and Ombi.
 - [Unpackerr](https://github.com/davidnewhall/unpackerr) - Checks for completed downloads and extracts them to Radarr/Sonarr/Lidarr.
 
-
-
 ### Scrapers
 oh lawd he scrapin'
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - Scrape and download useful information from TikTok.
@@ -72,7 +70,6 @@ oh lawd he scrapin'
 
 ### Research & Proof of Concepts
 - [Apple_Bleee](https://github.com/hexway/apple_bleee) - Experimental PoC that shows what an attacker gets from Apple devices if they sniff Bluetooth traffic.
-- [csctl](https://github.com/403-Fruit/csctl) - Scripting CS:GO over Telnet.
 - [Nikto](https://github.com/sullo/nikto) - Web server scanner, it's pretty good I think.
 - [Thunderspy](https://thunderspy.io/) - Vunerability based on the Thunderbolt port. Allows for an evil maid attack that grants you access in about 5 minutes, but needs other computers to do it.
 - [Intrigue-Core](https://github.com/intrigueio/intrigue-core) - Automation framework for external attack surface.
@@ -144,6 +141,13 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 ### Bootable USB OS
 - [ShredOS](https://github.com/PartialVolume/shredos.2020.02) - Sole purpose of securely erasing the entire contents of your disks using [nwipe](https://github.com/martijnvanbrummelen/nwipe).
 - [Ventoy](https://github.com/ventoy/Ventoy) - Bootable USB solution that allows you to creative live OSs on the go. 
+
+### Cheats and anti-cheat
+- [PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for games, but can be used for anything.
+- [FlyGuys](https://github.com/B3akers/FlyGuys) - Internal cheat for Fall Guys.
+- [FlyGuys_External](https://github.com/B3akers/FlyGuys_External) - Ditto, but external.
+- [csctl](https://github.com/403-Fruit/csctl) - Scripting CS:GO over Telnet.
+- [HAC](https://github.com/Yushe/HAC) - HeX's Anti Cheat for GMod. Infamous for being very aggressive.
 
 ### Other?
 ah yes, the "I might need this in the future" pile.
