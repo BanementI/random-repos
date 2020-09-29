@@ -118,6 +118,8 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 ### Browser Addons
 - [SponserBlock](https://github.com/ajayyy/SponsorBlock) - Skip sponsorships in videos, all community reported. [Has it's own API](https://github.com/ajayyy/SponsorBlockServer).
 - [Fuzzify.me](https://github.com/d4t4x/facebook-cleaner) - Helps you understand how Facebook targets you with adverts.
+- [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter what requests are sent on a web page, to block scripts, images, etc. (Archived)
+- [uBlock](https://github.com/gorhill/uBlock) - Very good adblock.
 
 ### Burners
 - [Burn Notice](https://github.com/burn-notice/burn-notice)
