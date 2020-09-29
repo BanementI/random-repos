@@ -88,6 +88,7 @@ oh lawd he scrapin'
 - [simplewall](https://www.henrypp.org/product/simplewall) - Block everything from connecting to the Internet, only allow what you want.
 - [horcux](https://github.com/jesseduffield/horcrux) - Split files up into encrypted parts.
 - [Sweyntooth BLE Attacks](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks) - 12 PoCs that allow attackers to trigger deadlocks, crashes and buffer overflows or completely bypass security.
+- [Zeus](https://github.com/Visgean/Zeus) - Leaked source code of the Zeus malware.
 
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
