@@ -98,7 +98,7 @@ oh lawd he scrapin'
 - [Invidious](https://github.com/omarroth/invidious/) - YouTube.
 - [Nitter](https://github.com/zedeus/nitter/) - Twitter.
 - [Searx](https://github.com/asciimoo/searx) - Search engine.
-- [G Desktop Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Sutie as a desktop app./
+- [G Desktop Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Sutie as a desktop app.
 
 ### File Sharing
 Not many repos but I don't care, my bookmarks folder is getting big.
@@ -174,7 +174,7 @@ ah yes, the "I might need this in the future" pile.
 - 🔞[Intiface Console Game Haptics Router](https://github.com/intiface/intiface-console-game-haptics-router) - Ditto, but for consoles. 🔞
 - [SCAT](https://github.com/fgsect/scat) - It's not fetish, I swear.
 - [SpotMux](https://github.com/dmgutierrez/spotify-musixmatch-data-collector) - Python module to collect datasets from Spotify and MusicMatch.
-- [MLA](https://github.com/ANSSI-FR/MLA) - A pure rusy encrypted and compressed archive file format.
+- [MLA](https://github.com/ANSSI-FR/MLA) - A pure rust encrypted and compressed archive file format.
 - [lyrebird](https://github.com/chxrlt/lyrebird) - Simple and powerful voice changer for Linux
 - [pdfbook2](https://github.com/jenom/pdfbook2) - Turn pdf files into print-ready booklets.
 
