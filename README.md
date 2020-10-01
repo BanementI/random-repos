@@ -68,6 +68,7 @@ oh lawd he scrapin'
 - [NoDeletedMessages](https://github.com/Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins) - See messages even after they've been deleted.
 - [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file.
 - [CutTheCord](https://gitdab.com/distok/cutthecord) - Alternative Discord client for Android.
+- [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - Grabs your OS info and displays it as a rich presence.
 
 ### Research & Proof of Concepts
 - [Apple_Bleee](https://github.com/hexway/apple_bleee) - Experimental PoC that shows what an attacker gets from Apple devices if they sniff Bluetooth traffic.
@@ -89,6 +90,8 @@ oh lawd he scrapin'
 - [horcux](https://github.com/jesseduffield/horcrux) - Split files up into encrypted parts.
 - [Sweyntooth BLE Attacks](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks) - 12 PoCs that allow attackers to trigger deadlocks, crashes and buffer overflows or completely bypass security.
 - [Zeus](https://github.com/Visgean/Zeus) - Leaked source code of the Zeus malware.
+- [EndleSSH](https://github.com/skeeto/endlessh) - Very slowly sends a random, neverending SSH banner. Meant to listen on port 22 to trap SSH clients.
+- [Monkey](https://github.com/guardicore/monkey) - Automated pentest tool.
 
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
@@ -112,9 +115,14 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [Deelay.me](https://deelay.me/) - Delay HTTP requests by a number of milliseconds by using this as a proxy.
 - [ghorg](https://github.com/gabrie30/ghorg) - Clone an entire user/org's repositories into one directory. Supports GitHub, GitLab and Bitbucket.
 - [PseudoVym](https://github.com/tylerdotrar/PseudoVym) - Vim, but in PowerShell.
+- [Edux-UI](https://github.com/GitSquared/edex-ui) - Want to be a hacker just like the movies? Here you go.
+- [Restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
+- [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees.
 
-### Web servers
+### Servers
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
+- [Impostor](https://github.com/AeonLucid/Impostor) - Among Us private server.
+- [Youtube-DL-Server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 
 ### Browser Addons
 - [SponserBlock](https://github.com/ajayyy/SponsorBlock) - Skip sponsorships in videos, all community reported. [Has it's own API](https://github.com/ajayyy/SponsorBlockServer).
@@ -177,6 +185,8 @@ ah yes, the "I might need this in the future" pile.
 - [MLA](https://github.com/ANSSI-FR/MLA) - A pure rust encrypted and compressed archive file format.
 - [lyrebird](https://github.com/chxrlt/lyrebird) - Simple and powerful voice changer for Linux
 - [pdfbook2](https://github.com/jenom/pdfbook2) - Turn pdf files into print-ready booklets.
+- [torram](https://github.com/vbuell/torram) - Recreate a torrent's download directory from fully and partially downloaded files.
+- [Backlight Collector](https://github.com/the-markup/blacklight-collector) - Idk.
 
 ### To make a summery out of:
 https://github.com/kaitai-io/kaitai_struct
