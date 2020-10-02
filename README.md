@@ -161,6 +161,9 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [FlyGuys_External](https://github.com/B3akers/FlyGuys_External) - Ditto, but external.
 - [csctl](https://github.com/403-Fruit/csctl) - Scripting CS:GO over Telnet.
 - [HAC](https://github.com/Yushe/HAC) - HeX's Anti Cheat for GMod. Infamous for being very aggressive.
+- [AmongUsMemory](https://github.com/shlifedev/AmongUsMemory) - Among Us cheat, shows the current players and who is impostor.
+- [AmongUsInternal](https://github.com/Octavia123/Among-Us-Internal) - Ditto, but internal.
+
 
 ### Other?
 ah yes, the "I might need this in the future" pile.
