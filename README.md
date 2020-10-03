@@ -102,6 +102,7 @@ oh lawd he scrapin'
 - [Nitter](https://github.com/zedeus/nitter/) - Twitter.
 - [Searx](https://github.com/asciimoo/searx) - Search engine.
 - [G Desktop Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Sutie as a desktop app.
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube) - YouTube app for desktop and mobile. Non-Google, of course.
 
 ### File Sharing
 Not many repos but I don't care, my bookmarks folder is getting big.
