@@ -17,6 +17,7 @@ A repository in a repository?
 - [SecLists](https://github.com/danielmiessler/SecLists/) - Large repo of many lists for use in security assessments.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Large repo of paylods for Web Application Security.
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. 
+- [Awuful AI](https://github.com/daviddao/awful-ai) - A list of current misuses of AI.
 
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites.
@@ -92,6 +93,9 @@ oh lawd he scrapin'
 - [Zeus](https://github.com/Visgean/Zeus) - Leaked source code of the Zeus malware.
 - [EndleSSH](https://github.com/skeeto/endlessh) - Very slowly sends a random, neverending SSH banner. Meant to listen on port 22 to trap SSH clients.
 - [Monkey](https://github.com/guardicore/monkey) - Automated pentest tool.
+
+### Anti-Censorship
+- [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Blocks passive DPI, cirmcumvents active DPI. Windows only.
 
 ### Decompilers
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
