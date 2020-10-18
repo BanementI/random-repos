@@ -93,6 +93,7 @@ oh lawd he scrapin'
 - [Zeus](https://github.com/Visgean/Zeus) - Leaked source code of the Zeus malware.
 - [EndleSSH](https://github.com/skeeto/endlessh) - Very slowly sends a random, neverending SSH banner. Meant to listen on port 22 to trap SSH clients.
 - [Monkey](https://github.com/guardicore/monkey) - Automated pentest tool.
+- [awfice](https://github.com/zserge/awfice) - World's smallest office suite, as plain HTML and JS.
 
 ### Anti-Censorship
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Blocks passive DPI, cirmcumvents active DPI. Windows only.
