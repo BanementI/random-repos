@@ -64,6 +64,7 @@ oh lawd he scrapin'
 - [N!gga.services](https://nigga.services/) - Not a repo, I love the name, but it's basically a scraper. It grabs random images from imgur, prntscr, gyazo, maybe others.
 - [SecretAgent](https://secretagent.dev/) - Headless web browser for scraping.
 - [State Of Scraping](https://stateofscraping.org/) - Detailed analysis of bot detection methods.
+- [TWINT](https://github.com/twintproject/twint) - Advanced Twitter scraping and OSINT tool that doesn't use Twitter's API.
 
 ### Discord
 - [NoDeletedMessages](https://github.com/Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins) - See messages even after they've been deleted.
@@ -94,6 +95,8 @@ oh lawd he scrapin'
 - [EndleSSH](https://github.com/skeeto/endlessh) - Very slowly sends a random, neverending SSH banner. Meant to listen on port 22 to trap SSH clients.
 - [Monkey](https://github.com/guardicore/monkey) - Automated pentest tool.
 - [awfice](https://github.com/zserge/awfice) - World's smallest office suite, as plain HTML and JS.
+- [Chaos Lambda](https://github.com/artilleryio/chaos-lambda) - A serverless implementation of Netflix's [Chaos Monkey](https://github.com/Netflix/chaosmonkey).
+
 
 ### Anti-Censorship
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Blocks passive DPI, cirmcumvents active DPI. Windows only.
@@ -149,6 +152,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 
 ### Apps
 - [Warden](https://gitlab.com/AuroraOSS/AppWarden) - Scans your Android device for apps that have tracker and loggers.
+- [LibGen-Scan](https://github.com/nfd9001/Libgen-Scan) - Scan a barcode, get the book on your phone.
 
 ### Web Apps
 - [HexEd.it](https://hexed.it/) - Browser-based online and offline hex editor.
@@ -196,6 +200,7 @@ ah yes, the "I might need this in the future" pile.
 - [pdfbook2](https://github.com/jenom/pdfbook2) - Turn pdf files into print-ready booklets.
 - [torram](https://github.com/vbuell/torram) - Recreate a torrent's download directory from fully and partially downloaded files.
 - [Backlight Collector](https://github.com/the-markup/blacklight-collector) - Idk.
+- [Kanye.rest](https://kanye.rest/) - Free REST API for random Kanye West quotes.
 
 ### To make a summery out of:
 https://github.com/kaitai-io/kaitai_struct
