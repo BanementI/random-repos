@@ -21,7 +21,7 @@ A repository in a repository?
 
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites.
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - A must have command-line program to download YouTube videos with support for other sites such as Reddit, Twitter, Soundcloud, etc.
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - A must have command-line program to download YouTube videos with support for other sites such as Reddit, Twitter, Soundcloud, etc. **DMCA'd**
 - [youtube-dlc](https://github.com/blackjack4494/youtube-dlc) - A fork of Youtube-DL that adds experimental features. Made because devs were upset at how slow pull requests are.
 - [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self hosted Youtube downloader built on whatever the hell Material Design is.
 - [SponSkrub](https://github.com/faissaloo/SponSkrub) - Strip advertisements from downloaded Youtube videos, which makes use of [SponserBlockServer API](https://github.com/ajayyy/SponsorBlockServer).
