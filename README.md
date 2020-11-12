@@ -96,6 +96,10 @@ oh lawd he scrapin'
 - [Monkey](https://github.com/guardicore/monkey) - Automated pentest tool.
 - [awfice](https://github.com/zserge/awfice) - World's smallest office suite, as plain HTML and JS.
 - [Chaos Lambda](https://github.com/artilleryio/chaos-lambda) - A serverless implementation of Netflix's [Chaos Monkey](https://github.com/Netflix/chaosmonkey).
+- [heralding](https://github.com/johnnykv/heralding) - A honeypot that only collects credentials.
+- [gitjacker](https://github.com/liamg/gitjacker) - Leak git repos from misconfigured websites.
+- [GitTools](https://github.com/internetwache/GitTools) - Similar to gitjacker.
+- [DotGit](https://github.com/davtur19/DotGit) - Automatically checks every website you go to for an exposed .git :)
 
 
 ### Anti-Censorship
@@ -202,6 +206,7 @@ ah yes, the "I might need this in the future" pile.
 - [Backlight Collector](https://github.com/the-markup/blacklight-collector) - Idk.
 - [Kanye.rest](https://kanye.rest/) - Free REST API for random Kanye West quotes.
 - [McBroken](https://mcbroken.com/) - A map of all broken ice cream machines in the USA. For McDonalds.
+- [Bringing Old Photos Back to life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - A Microsoft project to make old photos look less old.
 
 ### To make a summery out of:
 https://github.com/kaitai-io/kaitai_struct
