@@ -201,6 +201,7 @@ ah yes, the "I might need this in the future" pile.
 - [torram](https://github.com/vbuell/torram) - Recreate a torrent's download directory from fully and partially downloaded files.
 - [Backlight Collector](https://github.com/the-markup/blacklight-collector) - Idk.
 - [Kanye.rest](https://kanye.rest/) - Free REST API for random Kanye West quotes.
+- [McBroken](https://mcbroken.com/) - A map of all broken ice cream machines in the USA. For McDonalds.
 
 ### To make a summery out of:
 https://github.com/kaitai-io/kaitai_struct
