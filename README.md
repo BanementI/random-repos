@@ -103,6 +103,7 @@ oh lawd he scrapin'
 - [DotGit](https://github.com/davtur19/DotGit) - Automatically checks every website you go to for an exposed .git :)
 - [usbkill](https://github.com/hephaest0s/usbkill) - Anti-forensic tool that'll shut down your computer if an unknown USB device is detected.
 - [usbdeath](https://github.com/trpt/usbdeath) - Ditto, but in pure bash.
+- [trape]https://github.com/jofpin/trape) - Learn to track the world to avoid being traced.
 
 ### Anti-Censorship
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Blocks passive DPI, cirmcumvents active DPI. Windows only.
@@ -185,6 +186,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 ### Other?
 ah yes, the "I might need this in the future" pile.
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Batch scripts to activate Microsoft products using HWID, KMS38 or Online KMS methods.
+- [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps in Ubuntu, Fedora and GNOME/KDE as if they were native.
 - [tiktok-api](https://github.com/szdc/tiktok-api) - A reverse-engineered implementation of the TikTok (previously musical.ly) app's API.
 - [Legendary](https://github.com/derrod/legendary) - Replacement for Epic Games Launcher.
 - [Torrent-net](https://github.com/lmatteis/torrent-net) - Umm, I don't actually know what this does.
@@ -210,6 +212,8 @@ ah yes, the "I might need this in the future" pile.
 - [Kanye.rest](https://kanye.rest/) - Free REST API for random Kanye West quotes.
 - [McBroken](https://mcbroken.com/) - A map of all broken ice cream machines in the USA. For McDonalds.
 - [Bringing Old Photos Back to life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - A Microsoft project to make old photos look less old.
+- [cam_board](https://github.com/kacpertopol/cam_board) - Point your camera at some paper for it to stretch it across the screen.
+- [ReplaySorcery](https://github.com/matanui159/ReplaySorcery) - Instant replay for Linux.
 
 ### To make a summery out of:
 https://github.com/kaitai-io/kaitai_struct
