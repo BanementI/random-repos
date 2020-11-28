@@ -65,6 +65,7 @@ oh lawd he scrapin'
 - [SecretAgent](https://secretagent.dev/) - Headless web browser for scraping.
 - [State Of Scraping](https://stateofscraping.org/) - Detailed analysis of bot detection methods.
 - [TWINT](https://github.com/twintproject/twint) - Advanced Twitter scraping and OSINT tool that doesn't use Twitter's API.
+- [StreetMerchant](https://github.com/jef/streetmerchant) - Scrapes website for stock of something you want, like a RTX 3080.
 
 ### Discord
 - [NoDeletedMessages](https://github.com/Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins) - See messages even after they've been deleted.
@@ -100,7 +101,8 @@ oh lawd he scrapin'
 - [gitjacker](https://github.com/liamg/gitjacker) - Leak git repos from misconfigured websites.
 - [GitTools](https://github.com/internetwache/GitTools) - Similar to gitjacker.
 - [DotGit](https://github.com/davtur19/DotGit) - Automatically checks every website you go to for an exposed .git :)
-
+- [usbkill](https://github.com/hephaest0s/usbkill) - Anti-forensic tool that'll shut down your computer if an unknown USB device is detected.
+- [usbdeath](https://github.com/trpt/usbdeath) - Ditto, but in pure bash.
 
 ### Anti-Censorship
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Blocks passive DPI, cirmcumvents active DPI. Windows only.
