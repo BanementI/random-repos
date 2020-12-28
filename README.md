@@ -167,7 +167,6 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh/) - Compression and compare images in your browser.
 - [svgomg](https://jakearchibald.github.io/svgomg/) - Ditto, but for SVGs.
 - [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Calculate...power supply.
-- [Shared Piano](https://musiclab.chromeexperiments.com/Shared-Piano/) - Share a piano with people.
 
 ### Bootable USB OS
 - [ShredOS](https://github.com/PartialVolume/shredos.2020.02) - Sole purpose of securely erasing the entire contents of your disks using [nwipe](https://github.com/martijnvanbrummelen/nwipe).
@@ -182,7 +181,8 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [AmongUsMemory](https://github.com/shlifedev/AmongUsMemory) - Among Us cheat, shows the current players and who is impostor.
 - [AmongUsInternal](https://github.com/Octavia123/Among-Us-Internal) - Ditto, but internal.
 
-
+### File Cleaners
+- [Czkawka](https://github.com/qarmin/czkawka) - Windows and Linux, CLI or GUI. Find duplicate files, broken symlinks, empty folders, etc.
 ### Other?
 ah yes, the "I might need this in the future" pile.
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Batch scripts to activate Microsoft products using HWID, KMS38 or Online KMS methods.
