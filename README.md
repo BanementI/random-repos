@@ -147,11 +147,23 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [Impostor](https://github.com/AeonLucid/Impostor) - Among Us private server.
 - [Youtube-DL-Server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 
+### Browsers
+- [Firefox](https://archive.mozilla.org/pub/firefox/releases/) - Source can be found by selection desired version, then the "source" folder, then download the tar.
+- [Ffprofile](https://ffprofile.com/) - Not a browser, but a profile generator for Firefox, to harden your settings.
+- [Waterfox](https://github.com/MrAlex94/Waterfox) - Privacy focused browser. **(WARNING: BOUGHT BY SYSTEM1, AN ADVERTISING COMPANY)**
+- [LibreWolf](https://librewolf-community.gitlab.io/) - A privacy focused browser that didn't sell out.
+- [Pale Moon](https://www.palemoon.org/) - Do you miss that Windows 7-type style? Here you go.
+- [IceCat](https://www.gnu.org/software/gnuzilla/) - Here's a browser that is so strict on privacy, it might be unusable.
+- [Tor](https://www.torproject.org/) - Lets you connect to the deep web, as well as avoiding censorship in strict countries.
+- [Chromium](https://source.chromium.org/) - The base for Google Chrome, Microsoft Edge and Opera.
+- [Wexond](https://github.com/wexond/desktop) - Built on (tw //) Electron and React, based on Chromium. I've never used this.
+- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium, but removes the Google web server dependacy.
+
 ### Browser Addons
 - [SponserBlock](https://github.com/ajayyy/SponsorBlock) - Skip sponsorships in videos, all community reported. [Has it's own API](https://github.com/ajayyy/SponsorBlockServer).
 - [Fuzzify.me](https://github.com/d4t4x/facebook-cleaner) - Helps you understand how Facebook targets you with adverts.
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter what requests are sent on a web page, to block scripts, images, etc. (Archived)
-- [uBlock](https://github.com/gorhill/uBlock) - Very good adblock.
+- [uBlock](https://github.com/gorhill/uBlock) - Very good adblock. The only adblock you need.
 
 ### Burners
 - [Burn Notice](https://github.com/burn-notice/burn-notice)
