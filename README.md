@@ -5,6 +5,7 @@ DISCLAIMER: I haven't used like 90% of the stuff here. Something might work, mig
 
 ### Other repos
 A repository in a repository?
+- [Awesome](https://github.com/sindresorhus/awesome) - A gigantic list of topics, very detailed.
 - [List of Ephermeral File Sharing Services](https://gist.github.com/Prajjwal/2226c6a96d1d72abc713e889160a9f81) - List of...file sharing services. That are also open source I think.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners and more.
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Leads to even more repos about hacking.
