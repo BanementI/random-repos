@@ -23,6 +23,7 @@ A repository in a repository?
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - A must have command-line program to download YouTube videos with support for other sites such as Reddit, Twitter, Soundcloud, etc. [**Fuck the RIAA**](https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md) 
 - [youtube-dlc](https://github.com/blackjack4494/yt-dlc) - A fork of Youtube-DL that adds experimental features. Made because devs were upset at how slow pull requests are. [**Fuck the RIAA**](https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md) 
+- [TarTube](https://github.com/axcore/tartube) - GUI front-end for youtube-dl and youtube-dlc.
 - [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self hosted Youtube downloader built on whatever the hell Material Design is.
 - [SponSkrub](https://github.com/faissaloo/SponSkrub) - Strip advertisements from downloaded Youtube videos, which makes use of [SponserBlockServer API](https://github.com/ajayyy/SponsorBlockServer).
 - [SteamScreenshotDownloader](https://github.com/garrynewman/SteamScreenshotDownloader) - Mass download a users screenshots, made by Garry Newman.
@@ -30,7 +31,7 @@ A repository in a repository?
 - [Monkey-DL](https://github.com/Oshan96/monkey-dl) - Bulk download anime.
 - [sndcld-dl](https://github.com/Sweets/sndcld-dl) - Download an artist's tracks.
 - [soundcloud-dl](https://github.com/Suyash458/soundcloud-dl)- Download an artist's likes. (Mysteriously fails to download artist tracks, only likes.)
-
+- [mf-dl](https://gitgud.io/Pyxia/mf-dl/) - Bulk download Mediafire links. (Because Mediafire is going to start deleting old content.)
 
 ### The \*arr suite
 Things that go hand in hand with Sonarr.
@@ -54,6 +55,9 @@ https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_an
 - [Wantarr](https://github.com/l3uddz/wantarr) - CLI for Sonarr and Radarr.
 - [Requestrr](https://github.com/darkalfx/requestrr) - Chatbot for adding stuff to Sonarr, Radarr and Ombi.
 - [Unpackerr](https://github.com/davidnewhall/unpackerr) - Checks for completed downloads and extracts them to Radarr/Sonarr/Lidarr.
+- [Overseerr](https://github.com/sct/overseerr) - Like requestrr or mellow. Same shit, different dev.
+- [Logarr](https://github.com/Monitorr/logarr) - Self-hosted PHP web app that consolidates, formats and displays logs for your \*arrs.
+- [Monitorr](https://github.com/Monitorr/Monitorr) - Self-hosted PHP web app that monitors the status of local and remote network services, websites and applications.
 
 ### Scrapers
 oh lawd he scrapin'
@@ -72,6 +76,7 @@ oh lawd he scrapin'
 - [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file.
 - [CutTheCord](https://gitdab.com/distok/cutthecord) - Alternative Discord client for Android.
 - [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - Grabs your OS info and displays it as a rich presence.
+- [PSDiscord](https://github.com/EvotecIT/PSDiscord) - Simple PowerShell module allowing to send messages to Discord channels over webhooks.
 
 ### Research & Proof of Concepts
 - [Apple_Bleee](https://github.com/hexway/apple_bleee) - Experimental PoC that shows what an attacker gets from Apple devices if they sniff Bluetooth traffic.
@@ -103,7 +108,8 @@ oh lawd he scrapin'
 - [DotGit](https://github.com/davtur19/DotGit) - Automatically checks every website you go to for an exposed .git :)
 - [usbkill](https://github.com/hephaest0s/usbkill) - Anti-forensic tool that'll shut down your computer if an unknown USB device is detected.
 - [usbdeath](https://github.com/trpt/usbdeath) - Ditto, but in pure bash.
-- [trape]https://github.com/jofpin/trape) - Learn to track the world to avoid being traced.
+- [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decrypt encryptions without knowing anything about what it's encrypted with.
+- [SocialAnalyzer](https://github.com/qeeqbox/social-analyzer) - Search for a person accross 300+ social media profiles.
 
 ### Anti-Censorship
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Blocks passive DPI, cirmcumvents active DPI. Windows only.
@@ -158,7 +164,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [Huami-Token](https://github.com/argrento/huami-token) - Get your auth token from Huami without needing a rooted phone. (Python)
 - [GadgetBridge](https://codeberg.org/Freeyourgadget/Gadgetbridge/) - Free, cloudless and offline app to control your smartwatch without corporations consooming your data. I use this.
 
-### Apps
+### Android Apps
 - [Warden](https://gitlab.com/AuroraOSS/AppWarden) - Scans your Android device for apps that have tracker and loggers.
 - [LibGen-Scan](https://github.com/nfd9001/Libgen-Scan) - Scan a barcode, get the book on your phone.
 
@@ -167,10 +173,12 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh/) - Compression and compare images in your browser.
 - [svgomg](https://jakearchibald.github.io/svgomg/) - Ditto, but for SVGs.
 - [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Calculate...power supply.
+- [DevDocs](https://github.com/freeCodeCamp/devdocs) - Fast, offline and free documentation browser for developers.
 
 ### Bootable USB OS
 - [ShredOS](https://github.com/PartialVolume/shredos.2020.02) - Sole purpose of securely erasing the entire contents of your disks using [nwipe](https://github.com/martijnvanbrummelen/nwipe).
 - [Ventoy](https://github.com/ventoy/Ventoy) - Bootable USB solution that allows you to creative live OSs on the go. 
+- [Shrine](https://github.com/minexew/Shrine) - TempleOS for heretics. Aims to improve on TempleOS in sveral ways, while still maintaining support for Terry's applications.
 
 ### Cheats and anti-cheat
 - [PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for games, but can be used for anything.
@@ -183,6 +191,8 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 
 ### File Cleaners
 - [Czkawka](https://github.com/qarmin/czkawka) - Windows and Linux, CLI or GUI. Find duplicate files, broken symlinks, empty folders, etc.
+- [BleachBit](https://www.bleachbit.org/download/source) - Windows and Linux, GUI.
+
 ### Other?
 ah yes, the "I might need this in the future" pile.
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Batch scripts to activate Microsoft products using HWID, KMS38 or Online KMS methods.
@@ -214,6 +224,10 @@ ah yes, the "I might need this in the future" pile.
 - [Bringing Old Photos Back to life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - A Microsoft project to make old photos look less old.
 - [cam_board](https://github.com/kacpertopol/cam_board) - Point your camera at some paper for it to stretch it across the screen.
 - [ReplaySorcery](https://github.com/matanui159/ReplaySorcery) - Instant replay for Linux.
+- [Zrythm](https://github.com/zrythm/zrythm) - Highly automated and intuitive DAW.
+- [UwUpp](https://github.com/Deltaphish/UwUpp) - UwU language, written in Haskell.
+- [Sosumi-snap](https://github.com/popey/sosumi-snap) - Snap package for Sosumi; downloading and installing MacOS on Linux.
+- [pacwall](https://github.com/Kharacternyk/pacwall) - Make your wallpaper a dependacy graph and status of your installed packages. Arch only, for reasons that should be obvious.
 
 ### To make a summery out of:
 https://github.com/kaitai-io/kaitai_struct
