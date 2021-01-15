@@ -157,7 +157,6 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [IceCat](https://www.gnu.org/software/gnuzilla/) - Here's a browser that is so strict on privacy, it might be unusable.
 - [Tor](https://www.torproject.org/) - Lets you connect to the deep web, as well as avoiding censorship in strict countries.
 - [Chromium](https://source.chromium.org/) - The base for Google Chrome, Microsoft Edge and Opera.
-- [Wexond](https://github.com/wexond/desktop) - Built on (tw //) Electron and React, based on Chromium. I've never used this.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium, but removes the Google web server dependacy.
 
 ### Browser Addons
