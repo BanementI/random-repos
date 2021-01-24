@@ -74,7 +74,8 @@ oh lawd he scrapin'
 
 ### Discord
 - [NoDeletedMessages](https://github.com/Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins) - See messages even after they've been deleted.
-- [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file.
+- [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to several formats.
+- [DiscordHistoryTracker](https://dht.chylex.com/) - Ditto, but puts everything into one big file.
 - [CutTheCord](https://gitdab.com/distok/cutthecord) - Alternative Discord client for Android.
 - [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - Grabs your OS info and displays it as a rich presence.
 - [PSDiscord](https://github.com/EvotecIT/PSDiscord) - Simple PowerShell module allowing to send messages to Discord channels over webhooks.
@@ -147,6 +148,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
 - [Impostor](https://github.com/AeonLucid/Impostor) - Among Us private server.
 - [Youtube-DL-Server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
+- [CapOver](https://caprover.com/) - Build your own PaaS in a few minutes.
 
 ### Browsers
 - [Firefox](https://archive.mozilla.org/pub/firefox/releases/) - Source can be found by selection desired version, then the "source" folder, then download the tar.
@@ -240,6 +242,7 @@ ah yes, the "I might need this in the future" pile.
 - [UwUpp](https://github.com/Deltaphish/UwUpp) - UwU language, written in Haskell.
 - [Sosumi-snap](https://github.com/popey/sosumi-snap) - Snap package for Sosumi; downloading and installing MacOS on Linux.
 - [pacwall](https://github.com/Kharacternyk/pacwall) - Make your wallpaper a dependacy graph and status of your installed packages. Arch only, for reasons that should be obvious.
+- [Valetudo](https://valetudo.cloud/) - Self host your... vaccum?
 
 ### To make a summery out of:
 https://github.com/kaitai-io/kaitai_struct
