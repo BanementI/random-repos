@@ -153,7 +153,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 ### Browsers
 - [Firefox](https://archive.mozilla.org/pub/firefox/releases/) - Source can be found by selection desired version, then the "source" folder, then download the tar.
 - [Ffprofile](https://ffprofile.com/) - Not a browser, but a profile generator for Firefox, to harden your settings.
-- [Waterfox](https://github.com/MrAlex94/Waterfox) - Privacy focused browser. **(WARNING: BOUGHT BY SYSTEM1, AN ADVERTISING COMPANY)**
+- [Waterfox](https://github.com/MrAlex94/Waterfox) - "Privacy focused" browser. **(WARNING: BOUGHT BY SYSTEM1, AN ADVERTISING COMPANY)**
 - [LibreWolf](https://librewolf-community.gitlab.io/) - A privacy focused browser that didn't sell out.
 - [Pale Moon](https://www.palemoon.org/) - Do you miss that Windows 7-type style? Here you go.
 - [IceCat](https://www.gnu.org/software/gnuzilla/) - Here's a browser that is so strict on privacy, it might be unusable.
