@@ -166,6 +166,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [Fuzzify.me](https://github.com/d4t4x/facebook-cleaner) - Helps you understand how Facebook targets you with adverts.
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter what requests are sent on a web page, to block scripts, images, etc. (Archived)
 - [uBlock](https://github.com/gorhill/uBlock) - Very good adblock. The only adblock you need.
+- [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Save a faithful copy of a page in a self-estracting HTML/ZIP polyglot file.
 
 ### Burners
 - [Burn Notice](https://github.com/burn-notice/burn-notice)
@@ -173,6 +174,8 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 
 ### Blocklists
 - [Energized Protection](https://github.com/EnergizedProtection/block)
+- [Unified Hosts/StevenBlack](https://github.com/StevenBlack/hosts)
+- [Banement's Anti-IP Loggers](https://github.com/BanementI/iploggers/blob/main/hosts)
 
 ### Smartwatches
 - [Huami-Token](https://github.com/argrento/huami-token) - Get your auth token from Huami without needing a rooted phone. (Python)
