@@ -167,6 +167,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter what requests are sent on a web page, to block scripts, images, etc. (Archived)
 - [uBlock](https://github.com/gorhill/uBlock) - Very good adblock. The only adblock you need.
 - [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Save a faithful copy of a page in a self-estracting HTML/ZIP polyglot file.
+- [ViolentMonkey](https://github.com/violentmonkey/violentmonkey) - Userscript manager, not to be confused with Tampermonkey (a closed source addon).
 
 ### Burners
 - [Burn Notice](https://github.com/burn-notice/burn-notice)
