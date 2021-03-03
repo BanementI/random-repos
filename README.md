@@ -1,8 +1,9 @@
 # random-repos
 My bookmark folder is getting too big...
 This is my collection of FOSS repos from the world of GitHub.
-DISCLAIMER: I haven't used like 90% of the stuff here. Something might work, might not.
-
+> DISCLAIMER: I haven't used like 90% of the stuff here. Something might work, might not.
+> 
+> UPDATE 03/03/2021: :blue_heart: means I have used this before, :green_heart: means I use this very often.
 ### Other repos
 A repository in a repository?
 - [Awesome](https://github.com/sindresorhus/awesome) - A gigantic list of topics, very detailed.
@@ -21,8 +22,8 @@ A repository in a repository?
 - [Awuful AI](https://github.com/daviddao/awful-ai) - A list of current misuses of AI.
 
 ### Downloaders
-- [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites.
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - A must have command-line program to download YouTube videos with support for other sites such as Reddit, Twitter, Soundcloud, etc. [**Fuck the RIAA**](https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md) 
+- [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites. :green_heart:
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - A must have command-line program to download YouTube videos with support for other sites such as Reddit, Twitter, Soundcloud, etc. [**Fuck the RIAA**](https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md) :green_heart:
 - [youtube-dlc](https://github.com/blackjack4494/yt-dlc) - A fork of Youtube-DL that adds experimental features. Made because devs were upset at how slow pull requests are. [**Fuck the RIAA**](https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md) 
 - [TarTube](https://github.com/axcore/tartube) - GUI front-end for youtube-dl and youtube-dlc.
 - [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self hosted Youtube downloader built on whatever the hell Material Design is.
@@ -43,7 +44,7 @@ https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_an
 - [Radarr](https://github.com/Radarr/Radarr) - For movies.
 - [Readarr](https://github.com/Readarr/Readarr) - For ebooks.
 - [Lidarr](https://github.com/lidarr/Lidarr) - For music.
-- [Jackett](https://github.com/Jackett/Jackett) - For torrents.
+- [Jackett](https://github.com/Jackett/Jackett) - For torrents. :green_heart:
 - [Mylar3](https://github.com/mylar3/mylar3) - For comics.
 - [Bonarr](https://github.com/bonarr/Bonarr)- For porn. (Dead though).
 - [Traktarr](https://github.com/l3uddz/traktarr) - Script for adding series and movies based on Trakt lists.
@@ -64,7 +65,7 @@ https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_an
 oh lawd he scrapin'
 - [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - Scrape and download useful information from TikTok.
 - [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - OnlyFans scraper.
-- [imgur-scraper](https://github.com/aqswdefr746/imgur-scraper) - Randomly generates imgur IDs and, if valid, downloads them.
+- [imgur-scraper](https://github.com/aqswdefr746/imgur-scraper) - Randomly generates imgur IDs and, if valid, downloads them. :blue_heart:
 - [Lil Ripper](https://github.com/pauliusbaulius/lil_ripper) - Downloads media from subreddits and 4chan threads.
 - [N!gga.services](https://nigga.services/) - Not a repo, I love the name, but it's basically a scraper. It grabs random images from imgur, prntscr, gyazo, maybe others.
 - [SecretAgent](https://secretagent.dev/) - Headless web browser for scraping.
@@ -73,22 +74,22 @@ oh lawd he scrapin'
 - [StreetMerchant](https://github.com/jef/streetmerchant) - Scrapes website for stock of something you want, like a RTX 3080.
 
 ### Discord
-- [NoDeletedMessages](https://github.com/Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins) - See messages even after they've been deleted.
-- [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to several formats.
-- [DiscordHistoryTracker](https://dht.chylex.com/) - Ditto, but puts everything into one big file.
+- [MessageLoggerV2](https://github.com/1Lighty/BetterDiscordPlugins/tree/master/Plugins/MessageLoggerV2) - See messages even after they've been deleted. :green_heart:
+- [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to several formats. :blue_heart:
+- [DiscordHistoryTracker](https://dht.chylex.com/) - Ditto, but puts everything into one big file with filters/searching. :green_heart:
 - [CutTheCord](https://gitdab.com/distok/cutthecord) - Alternative Discord client for Android.
 - [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - Grabs your OS info and displays it as a rich presence.
 - [PSDiscord](https://github.com/EvotecIT/PSDiscord) - Simple PowerShell module allowing to send messages to Discord channels over webhooks.
 
 ### Research & Proof of Concepts
 - [Apple_Bleee](https://github.com/hexway/apple_bleee) - Experimental PoC that shows what an attacker gets from Apple devices if they sniff Bluetooth traffic.
-- [Nikto](https://github.com/sullo/nikto) - Web server scanner, it's pretty good I think.
+- [Nikto](https://github.com/sullo/nikto) - Web server scanner, it's pretty good I think. :blue_heart:
 - [Thunderspy](https://thunderspy.io/) - Vunerability based on the Thunderbolt port. Allows for an evil maid attack that grants you access in about 5 minutes, but needs other computers to do it.
 - [Intrigue-Core](https://github.com/intrigueio/intrigue-core) - Automation framework for external attack surface.
 - [honggfuzz](https://github.com/google/honggfuzz) - A fuzzer that appears to be good. Made by Google.
 - [HAL](https://github.com/emsec/hal) - Hardware analyzer. Don't ask me how to use this.
 - [fsociety](https://github.com/Manisso/fsociety) - Mr. Robot in real life, a hacker's toolkit.
-- [CMSmap](https://github.com/Dionach/CMSmap) - CMS scanner that automates the process of detecting security flaws of the most popular CMSs. 
+- [CMSmap](https://github.com/Dionach/CMSmap) - CMS scanner that automates the process of detecting security flaws of the most popular CMSs. :blue_heart:
 - [Artillery](https://github.com/BinaryDefense/artillery) - Blue team tools to protect Linux and Windows OS through multiple methods.
 - [ReVoLTE](https://revolte-attack.net/) - Vulnerability in the Voice over LTE protocol that can break the encryption on 4G voice calls.
 - [Mobile Sentinel](https://github.com/RUB-SysSec/mobile_sentinel) - Android app to detect vulnerable LTE and 5G networks. Focuses on ReVoLTE.
@@ -100,16 +101,16 @@ oh lawd he scrapin'
 - [horcux](https://github.com/jesseduffield/horcrux) - Split files up into encrypted parts.
 - [Sweyntooth BLE Attacks](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks) - 12 PoCs that allow attackers to trigger deadlocks, crashes and buffer overflows or completely bypass security.
 - [Zeus](https://github.com/Visgean/Zeus) - Leaked source code of the Zeus malware.
-- [EndleSSH](https://github.com/skeeto/endlessh) - Very slowly sends a random, neverending SSH banner. Meant to listen on port 22 to trap SSH clients.
+- [EndleSSH](https://github.com/skeeto/endlessh) - Very slowly sends a random, neverending SSH banner. Meant to listen on port 22 to trap SSH clients. :blue_heart:
 - [Monkey](https://github.com/guardicore/monkey) - Automated pentest tool.
 - [awfice](https://github.com/zserge/awfice) - World's smallest office suite, as plain HTML and JS.
 - [Chaos Lambda](https://github.com/artilleryio/chaos-lambda) - A serverless implementation of Netflix's [Chaos Monkey](https://github.com/Netflix/chaosmonkey).
 - [heralding](https://github.com/johnnykv/heralding) - A honeypot that only collects credentials.
-- [gitjacker](https://github.com/liamg/gitjacker) - Leak git repos from misconfigured websites.
+- [gitjacker](https://github.com/liamg/gitjacker) - Leak git repos from misconfigured websites. 
 - [GitTools](https://github.com/internetwache/GitTools) - Similar to gitjacker.
-- [DotGit](https://github.com/davtur19/DotGit) - Automatically checks every website you go to for an exposed .git :)
+- [DotGit](https://github.com/davtur19/DotGit) - Automatically checks every website you go to for an exposed .git :) :green_heart:
 - [usbkill](https://github.com/hephaest0s/usbkill) - Anti-forensic tool that'll shut down your computer if an unknown USB device is detected.
-- [usbdeath](https://github.com/trpt/usbdeath) - Ditto, but in pure bash.
+- [usbdeath](https://github.com/trpt/usbdeath) - Ditto, but in pure bash. :blue_heart:
 - [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decrypt encryptions without knowing anything about what it's encrypted with.
 - [SocialAnalyzer](https://github.com/qeeqbox/social-analyzer) - Search for a person accross 300+ social media profiles.
 
@@ -120,29 +121,29 @@ oh lawd he scrapin'
 - [JPEXS-Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - Open source flash SWF decompiler and editor.
 
 ### Alternative frontends to websites
-- [Bibliogram](https://github.com/cloudrac3r/bibliogram/) - Instagram.
-- [Invidious](https://github.com/omarroth/invidious/) - YouTube.
-- [Nitter](https://github.com/zedeus/nitter/) - Twitter.
-- [Searx](https://github.com/asciimoo/searx) - Search engine.
+- [Bibliogram](https://github.com/cloudrac3r/bibliogram/) - Instagram. :blue_heart:
+- [Invidious](https://github.com/omarroth/invidious/) - YouTube. :green_heart:
+- [Nitter](https://github.com/zedeus/nitter/) - Twitter. :green_heart:
+- [Searx](https://github.com/asciimoo/searx) - Search engine. :green_heart:
 - [G Desktop Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Sutie as a desktop app.
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - YouTube app for desktop and mobile. Non-Google, of course.
-- [Teddit](https://codeberg.org/teddit/teddit) - Reddit.
+- [Teddit](https://codeberg.org/teddit/teddit) - Reddit. :blue_heart:
 
 ### File Sharing
 Not many repos but I don't care, my bookmarks folder is getting big.
-- [Skynet](https://siasky.net/) - Decentralised CDN and file sharing platform
+- [Skynet](https://siasky.net/) - Decentralised CDN and file sharing platform. :blue_heart:
 
 ### Terminal / CLI
-- [HTTPie](https://github.com/jakubroztocil/httpie) - Replacement for curl. It's great.
+- [HTTPie](https://github.com/jakubroztocil/httpie) - Replacement for curl. It's great. :green_heart:
 - [dstask](https://github.com/naggie/dstask) - Personal task tracker.
 - [TaskWarrior](https://github.com/GothenburgBitFactory/taskwarrior) - A better personal and more extensive task tracker.
-- [thefuck](https://github.com/nvbn/thefuck) - Correct your previous mistyped command by expressing your anger.
+- [thefuck](https://github.com/nvbn/thefuck) - Correct your previous mistyped command by expressing your anger. :green_heart:
 - [Deelay.me](https://deelay.me/) - Delay HTTP requests by a number of milliseconds by using this as a proxy.
 - [ghorg](https://github.com/gabrie30/ghorg) - Clone an entire user/org's repositories into one directory. Supports GitHub, GitLab and Bitbucket.
 - [PseudoVym](https://github.com/tylerdotrar/PseudoVym) - Vim, but in PowerShell.
 - [Edux-UI](https://github.com/GitSquared/edex-ui) - Want to be a hacker just like the movies? Here you go.
 - [Restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
-- [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees.
+- [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees. 
 
 ### Servers
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
@@ -151,40 +152,40 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [CapOver](https://caprover.com/) - Build your own PaaS in a few minutes.
 
 ### Browsers
-- [Firefox](https://archive.mozilla.org/pub/firefox/releases/) - Source can be found by selection desired version, then the "source" folder, then download the tar.
-- [Ffprofile](https://ffprofile.com/) - Not a browser, but a profile generator for Firefox, to harden your settings.
+- [Firefox](https://archive.mozilla.org/pub/firefox/releases/) - Source can be found by selection desired version, then the "source" folder, then download the tar. :green_heart:
+- [Ffprofile](https://ffprofile.com/) - Not a browser, but a profile generator for Firefox, to harden your settings. :blue_heart:
 - [Waterfox](https://github.com/MrAlex94/Waterfox) - "Privacy focused" browser. **(WARNING: BOUGHT BY SYSTEM1, AN ADVERTISING COMPANY)**
-- [LibreWolf](https://librewolf-community.gitlab.io/) - A privacy focused browser that didn't sell out.
+- [LibreWolf](https://librewolf-community.gitlab.io/) - A privacy focused browser that didn't sell out. :green_heart:
 - [Pale Moon](https://www.palemoon.org/) - Do you miss that Windows 7-type style? Here you go.
 - [IceCat](https://www.gnu.org/software/gnuzilla/) - Here's a browser that is so strict on privacy, it might be unusable.
 - [Tor](https://www.torproject.org/) - Lets you connect to the deep web, as well as avoiding censorship in strict countries.
 - [Chromium](https://source.chromium.org/) - The base for Google Chrome, Microsoft Edge and Opera.
-- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium, but removes the Google web server dependacy.
+- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium, but removes the Google web server dependacy. :green_heart:
 
 ### Browser Addons
-- [SponserBlock](https://github.com/ajayyy/SponsorBlock) - Skip sponsorships in videos, all community reported. [Has it's own API](https://github.com/ajayyy/SponsorBlockServer).
+- [SponserBlock](https://github.com/ajayyy/SponsorBlock) - Skip sponsorships in videos, all community reported. [Has it's own API](https://github.com/ajayyy/SponsorBlockServer). :green_heart:
 - [Fuzzify.me](https://github.com/d4t4x/facebook-cleaner) - Helps you understand how Facebook targets you with adverts.
-- [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter what requests are sent on a web page, to block scripts, images, etc. (Archived)
-- [uBlock](https://github.com/gorhill/uBlock) - Very good adblock. The only adblock you need.
-- [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Save a faithful copy of a page in a self-estracting HTML/ZIP polyglot file.
-- [ViolentMonkey](https://github.com/violentmonkey/violentmonkey) - Userscript manager, not to be confused with Tampermonkey (a closed source addon).
+- [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter what requests are sent on a web page, to block scripts, images, etc. (Archived) :green_heart:
+- [uBlock](https://github.com/gorhill/uBlock) - Very good adblock. The only adblock you need. :green_heart:
+- [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Save a faithful copy of a page in a self-estracting HTML/ZIP polyglot file. :green_heart:
+- [ViolentMonkey](https://github.com/violentmonkey/violentmonkey) - Userscript manager, not to be confused with Tampermonkey (a closed source addon). :green_heart:
 
 ### Burners
 - [Burn Notice](https://github.com/burn-notice/burn-notice)
 - [AnonAddy](https://github.com/anonaddy/anonaddy)
 
 ### Blocklists
-- [Energized Protection](https://github.com/EnergizedProtection/block)
-- [Unified Hosts/StevenBlack](https://github.com/StevenBlack/hosts)
-- [Banement's Anti-IP Loggers](https://github.com/BanementI/iploggers/blob/main/hosts)
+- [Energized Protection](https://github.com/EnergizedProtection/block) 
+- [Unified Hosts/StevenBlack](https://github.com/StevenBlack/hosts) :green_heart:
+- [Banement's Anti-IP Loggers](https://github.com/BanementI/iploggers/blob/main/hosts) :green_heart:
 
 ### Smartwatches
-- [Huami-Token](https://github.com/argrento/huami-token) - Get your auth token from Huami without needing a rooted phone. (Python)
-- [GadgetBridge](https://codeberg.org/Freeyourgadget/Gadgetbridge/) - Free, cloudless and offline app to control your smartwatch without corporations consooming your data. I use this.
+- [Huami-Token](https://github.com/argrento/huami-token) - Get your auth token from Huami without needing a rooted phone. (Python) :blue_heart:
+- [GadgetBridge](https://codeberg.org/Freeyourgadget/Gadgetbridge/) - Free, cloudless and offline app to control your smartwatch without corporations consooming your data. :green_heart:
 
 ### Android Apps
 - [Warden](https://gitlab.com/AuroraOSS/AppWarden) - Scans your Android device for apps that have tracker and loggers.
-- [LibGen-Scan](https://github.com/nfd9001/Libgen-Scan) - Scan a barcode, get the book on your phone.
+- [LibGen-Scan](https://github.com/nfd9001/Libgen-Scan) - Scan a barcode, get the book on your phone. :blue_heart:
 
 ### Web Apps
 - [HexEd.it](https://hexed.it/) - Browser-based online and offline hex editor.
@@ -208,12 +209,12 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [AmongUsInternal](https://github.com/Octavia123/Among-Us-Internal) - Ditto, but internal.
 
 ### File Cleaners
-- [Czkawka](https://github.com/qarmin/czkawka) - Windows and Linux, CLI or GUI. Find duplicate files, broken symlinks, empty folders, etc.
-- [BleachBit](https://www.bleachbit.org/download/source) - Windows and Linux, GUI.
+- [Czkawka](https://github.com/qarmin/czkawka) - Windows and Linux, CLI or GUI. Find duplicate files, broken symlinks, empty folders, etc. :green_heart:
+- [BleachBit](https://www.bleachbit.org/download/source) - Windows and Linux, GUI. :green_heart:
 
 ### Other?
 ah yes, the "I might need this in the future" pile.
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Batch scripts to activate Microsoft products using HWID, KMS38 or Online KMS methods.
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Batch scripts to activate Microsoft products using HWID, KMS38 or Online KMS methods. :green_heart:
 - [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps in Ubuntu, Fedora and GNOME/KDE as if they were native.
 - [tiktok-api](https://github.com/szdc/tiktok-api) - A reverse-engineered implementation of the TikTok (previously musical.ly) app's API.
 - [Legendary](https://github.com/derrod/legendary) - Replacement for Epic Games Launcher.
@@ -237,8 +238,8 @@ ah yes, the "I might need this in the future" pile.
 - [pdfbook2](https://github.com/jenom/pdfbook2) - Turn pdf files into print-ready booklets.
 - [torram](https://github.com/vbuell/torram) - Recreate a torrent's download directory from fully and partially downloaded files.
 - [Backlight Collector](https://github.com/the-markup/blacklight-collector) - Idk.
-- [Kanye.rest](https://kanye.rest/) - Free REST API for random Kanye West quotes.
-- [McBroken](https://mcbroken.com/) - A map of all broken ice cream machines in the USA. For McDonalds.
+- [Kanye.rest](https://kanye.rest/) - Free REST API for random Kanye West quotes. :blue_heart:
+- [McBroken](https://mcbroken.com/) - A map of all broken ice cream machines in the USA. For McDonalds. :blue_heart:
 - [Bringing Old Photos Back to life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - A Microsoft project to make old photos look less old.
 - [cam_board](https://github.com/kacpertopol/cam_board) - Point your camera at some paper for it to stretch it across the screen.
 - [ReplaySorcery](https://github.com/matanui159/ReplaySorcery) - Instant replay for Linux.
