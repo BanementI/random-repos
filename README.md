@@ -34,6 +34,9 @@ A repository in a repository?
 - [sndcld-dl](https://github.com/Sweets/sndcld-dl) - Download an artist's tracks.
 - [soundcloud-dl](https://github.com/Suyash458/soundcloud-dl)- Download an artist's likes. (Mysteriously fails to download artist tracks, only likes.)
 - [mf-dl](https://gitgud.io/Pyxia/mf-dl/) - Bulk download Mediafire links. (Because Mediafire is going to start deleting old content.)
+- [FireDM](https://github.com/firedm/FireDM) - Python-based download mananger with multi connections, LibCurl and youtube-dl.
+- [manga-downloader](https://github.com/manga-download/hakuneko) - Manga & Anime downloader for Linux, Windows and MacOS.
+- [khna-dl](https://github.com/rand-net/khan-dl) - Download courses from khanacademy and names them too.
 
 ### The \*arr suite
 Things that go hand in hand with Sonarr.
@@ -60,6 +63,8 @@ https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_an
 - [Overseerr](https://github.com/sct/overseerr) - Like requestrr or mellow. Same shit, different dev.
 - [Logarr](https://github.com/Monitorr/logarr) - Self-hosted PHP web app that consolidates, formats and displays logs for your \*arrs.
 - [Monitorr](https://github.com/Monitorr/Monitorr) - Self-hosted PHP web app that monitors the status of local and remote network services, websites and applications.
+- [Showly](https://github.com/michaldrabik/showly-2.0) - Android TV Shows Tracker.
+- 
 
 ### Scrapers
 oh lawd he scrapin'
@@ -113,6 +118,7 @@ oh lawd he scrapin'
 - [usbdeath](https://github.com/trpt/usbdeath) - Ditto, but in pure bash. :blue_heart:
 - [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decrypt encryptions without knowing anything about what it's encrypted with.
 - [SocialAnalyzer](https://github.com/qeeqbox/social-analyzer) - Search for a person accross 300+ social media profiles.
+- [MQTT Malaria](https://github.com/etactica/mqtt-malaria) - Attack MQTT systems with mosquittos.
 
 ### Anti-Censorship
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Blocks passive DPI, cirmcumvents active DPI. Windows only.
@@ -144,6 +150,9 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [Edux-UI](https://github.com/GitSquared/edex-ui) - Want to be a hacker just like the movies? Here you go.
 - [Restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees. 
+- [colorpedia](https://github.com/joowani/colorpedia) - Look up colors and palettes.
+- [ytzfz](https://github.com/pystardust/ytfzf) - POSIX script to find and watch YouTube videos from the terminal.
+- [VisiData](https://www.visidata.org/) - Data science, but in your terminal.
 
 ### Servers
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
@@ -169,6 +178,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [uBlock](https://github.com/gorhill/uBlock) - Very good adblock. The only adblock you need. :green_heart:
 - [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Save a faithful copy of a page in a self-estracting HTML/ZIP polyglot file. :green_heart:
 - [ViolentMonkey](https://github.com/violentmonkey/violentmonkey) - Userscript manager, not to be confused with Tampermonkey (a closed source addon). :green_heart:
+- [Google Unlocked](https://github.com/Ibit-to/google-unlocked) - Uncensor Google search results.
 
 ### Burners
 - [Burn Notice](https://github.com/burn-notice/burn-notice)
@@ -193,6 +203,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [svgomg](https://jakearchibald.github.io/svgomg/) - Ditto, but for SVGs.
 - [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Calculate...power supply.
 - [DevDocs](https://github.com/freeCodeCamp/devdocs) - Fast, offline and free documentation browser for developers.
+- [JSON Editor](http://jsoneditoronline.org/) - I mean, it's in the name, innit?
 
 ### Bootable USB OS
 - [ShredOS](https://github.com/PartialVolume/shredos.2020.02) - Sole purpose of securely erasing the entire contents of your disks using [nwipe](https://github.com/martijnvanbrummelen/nwipe).
@@ -248,7 +259,14 @@ ah yes, the "I might need this in the future" pile.
 - [Sosumi-snap](https://github.com/popey/sosumi-snap) - Snap package for Sosumi; downloading and installing MacOS on Linux.
 - [pacwall](https://github.com/Kharacternyk/pacwall) - Make your wallpaper a dependacy graph and status of your installed packages. Arch only, for reasons that should be obvious.
 - [Valetudo](https://valetudo.cloud/) - Self host your... vaccum?
-
+- [Gravity Sync](https://github.com/vmstan/gravity-sync) - Sync multiple local Pi-Holes. Why would you want 2 Pi-Holes?
+- [Dive](https://github.com/wagoodman/dive) - Explore each layer in a docker image.
+- [BackupPC](https://backuppc.github.io/backuppc/) - High performance, enterprise-grade backup.
+- [EAC Log Forger](https://github.com/puddly/eac_logsigner) - Make forged Exact Audio Copy logs.
+- [LogChecker (CD Ripping)](https://github.com/OPSnet/Logchecker) - View logs made from CD ripping software.
+- [Hey Bro Check Log](https://github.com/ligh7s/hey-bro-check-log) - Ditto.
+- [LinuxServer](https://www.linuxserver.io/) - The largest collection of Docker images.
+- [Ignite](https://github.com/weaveworks/ignite) Virtual Machine manager.
 ### To make a summery out of:
 https://github.com/kaitai-io/kaitai_struct
 https://urbit.org/
