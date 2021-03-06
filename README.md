@@ -153,6 +153,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [colorpedia](https://github.com/joowani/colorpedia) - Look up colors and palettes.
 - [ytzfz](https://github.com/pystardust/ytfzf) - POSIX script to find and watch YouTube videos from the terminal.
 - [VisiData](https://www.visidata.org/) - Data science, but in your terminal.
+- [SunPaper](ttps://github.com/hexive/sunpaper) - Changes wallpaper based on sunset and sunrise times.
 
 ### Servers
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
