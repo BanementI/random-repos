@@ -120,6 +120,9 @@ oh lawd he scrapin'
 - [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decrypt encryptions without knowing anything about what it's encrypted with.
 - [SocialAnalyzer](https://github.com/qeeqbox/social-analyzer) - Search for a person accross 300+ social media profiles.
 - [MQTT Malaria](https://github.com/etactica/mqtt-malaria) - Attack MQTT systems with mosquittos.
+- [CarbonCopy](https://github.com/paranoidninja/CarbonCopy) - Create a spoofed certificate of any online website and signs an executable with it.
+- [r77](https://github.com/bytecode77/r77-rootkit) - Ring 3 rootkit with single file installer and fileless persistence.
+- [Avet](https://github.com/govolution/avet) - Anti Virus evasion tool.
 
 ### Anti-Censorship
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Blocks passive DPI, cirmcumvents active DPI. Windows only.
