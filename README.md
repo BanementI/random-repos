@@ -20,6 +20,7 @@ A repository in a repository?
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Large repo of paylods for Web Application Security.
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. 
 - [Awuful AI](https://github.com/daviddao/awful-ai) - A list of current misuses of AI.
+- [Clone Wars](https://github.com/GorvGoyl/Clone-Wars) - Open source clones of websites.
 
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites. :green_heart:
