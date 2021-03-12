@@ -268,6 +268,8 @@ ah yes, the "I might need this in the future" pile.
 - [Hey Bro Check Log](https://github.com/ligh7s/hey-bro-check-log) - Ditto.
 - [LinuxServer](https://www.linuxserver.io/) - The largest collection of Docker images.
 - [Ignite](https://github.com/weaveworks/ignite) Virtual Machine manager.
+- [uwu](https://github.com/uwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu/uwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuuwuwuwuwuwuwuwuwuwuwuw) - A random repository of fork bombs made in a dozen languages that endlessly print uwu.
+
 ### To make a summery out of:
 https://github.com/kaitai-io/kaitai_struct
 https://urbit.org/
