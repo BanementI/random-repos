@@ -3,7 +3,7 @@ My bookmark folder is getting too big...
 This is my collection of FOSS repos from the world of GitHub.
 > DISCLAIMER: I haven't used like 90% of the stuff here. Something might work, might not.
 > 
-> UPDATE 03/03/2021: :blue_heart: means I have used this before, :green_heart: means I use this very often.
+> UPDATE 03/03/2021: :blue_heart: means I have used this before, :green_heart: means I use this very often and :orange_heart: means I made it.
 ### Other repos
 A repository in a repository?
 - [Awesome](https://github.com/sindresorhus/awesome) - A gigantic list of topics, very detailed.
@@ -158,6 +158,12 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [ytzfz](https://github.com/pystardust/ytfzf) - POSIX script to find and watch YouTube videos from the terminal.
 - [VisiData](https://www.visidata.org/) - Data science, but in your terminal.
 - [SunPaper](ttps://github.com/hexive/sunpaper) - Changes wallpaper based on sunset and sunrise times.
+- [Banement's shell scripts](https://github.com/BanementI/shell-scripts) - Scripts that improve my Linux user experience. :orange_heart:
+
+### Ricing
+- [Soundcloud-QuiteDark](https://github.com/BanementI/Soundcloud-QuiteDark) - An unauthorised continutation of a dark theme for SoundCloud. :orange_heart:
+- [Arktik](https://github.com/BanementI/arktik) - A cold, seaside themed desktop. :orange_heart:
+- [PyWal](https://github.com/dylanaraps/pywal) - Generate and change colour schemes on the fly.
 
 ### Servers
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
@@ -192,7 +198,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 ### Blocklists
 - [Energized Protection](https://github.com/EnergizedProtection/block) 
 - [Unified Hosts/StevenBlack](https://github.com/StevenBlack/hosts) :green_heart:
-- [Banement's Anti-IP Loggers](https://github.com/BanementI/iploggers/blob/main/hosts) :green_heart:
+- [Banement's Anti-IP Loggers](https://github.com/BanementI/iploggers/blob/main/hosts) :orange_heart:
 
 ### Smartwatches
 - [Huami-Token](https://github.com/argrento/huami-token) - Get your auth token from Huami without needing a rooted phone. (Python) :blue_heart:
@@ -273,6 +279,7 @@ ah yes, the "I might need this in the future" pile.
 - [LinuxServer](https://www.linuxserver.io/) - The largest collection of Docker images.
 - [Ignite](https://github.com/weaveworks/ignite) Virtual Machine manager.
 - [uwu](https://github.com/uwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu/uwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuuwuwuwuwuwuwuwuwuwuwuw) - A random repository of fork bombs made in a dozen languages that endlessly print uwu.
+
 
 ### To make a summery out of:
 https://github.com/kaitai-io/kaitai_struct
