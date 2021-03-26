@@ -3,7 +3,7 @@ My bookmark folder is getting too big...
 This is my collection of FOSS repos from the world of GitHub.
 > DISCLAIMER: I haven't used like 90% of the stuff here. Something might work, might not.
 > 
-> UPDATE 03/03/2021: :blue_heart: means I have used this before, :green_heart: means I use this very often and :orange_heart: means I made it.
+> :blue_heart: means I have used this before, :green_heart: means I use this very often and :orange_heart: means I made it.
 ### Other repos
 A repository in a repository?
 - [Awesome](https://github.com/sindresorhus/awesome) - A gigantic list of topics, very detailed.
