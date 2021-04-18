@@ -123,6 +123,7 @@ oh lawd he scrapin'
 - [CarbonCopy](https://github.com/paranoidninja/CarbonCopy) - Create a spoofed certificate of any online website and signs an executable with it.
 - [r77](https://github.com/bytecode77/r77-rootkit) - Ring 3 rootkit with single file installer and fileless persistence.
 - [Avet](https://github.com/govolution/avet) - Anti Virus evasion tool.
+- [ZKTeco-Backdoor](https://github.com/shihaamabr/backdoortft-android/) - A backdoor for ZKTeco devices, popular in the Maldives.
 
 ### Anti-Censorship
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Blocks passive DPI, cirmcumvents active DPI. Windows only.
