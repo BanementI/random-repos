@@ -3,7 +3,7 @@ My bookmark folder is getting too big...
 This is my collection of FOSS repos from the world of GitHub.
 > DISCLAIMER: I haven't used like 90% of the stuff here. Something might work, might not.
 > 
-> :blue_heart: means I have used this before, :green_heart: means I use this very often and :orange_heart: means I made it.
+> :blue_heart: means I have used this before, :green_heart: means I use this very often, :orange_heart: means I made it and 👩🏼‍🤝‍🧑🏼 means it's peer-to-peer.
 ### Other repos
 A repository in a repository?
 - [Awesome](https://github.com/sindresorhus/awesome) - A gigantic list of topics, very detailed.
@@ -21,6 +21,9 @@ A repository in a repository?
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery. 
 - [Awuful AI](https://github.com/daviddao/awful-ai) - A list of current misuses of AI.
 - [Clone Wars](https://github.com/GorvGoyl/Clone-Wars) - Open source clones of websites.
+- [Matrix](https://github.com/matrix-org) - A new basis for open, interoperable, decentralised real-time communication. 👩🏼‍🤝‍🧑🏼 
+- [Big Ass Data Broker Opt Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - It's all in the name.
+- [WireGuard-Docs](https://github.com/pirate/wireguard-docs) - Unofficial WireGuard documentation.
 
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites. :green_heart:
@@ -38,6 +41,7 @@ A repository in a repository?
 - [FireDM](https://github.com/firedm/FireDM) - Python-based download mananger with multi connections, LibCurl and youtube-dl.
 - [manga-downloader](https://github.com/manga-download/hakuneko) - Manga & Anime downloader for Linux, Windows and MacOS.
 - [khna-dl](https://github.com/rand-net/khan-dl) - Download courses from khanacademy and names them too.
+- [OverDrive](https://github.com/chbrown/overdrive) - Bash script to download MP3s from the OverDrive audiobook service.
 
 ### The \*arr suite
 Things that go hand in hand with Sonarr.
@@ -65,7 +69,6 @@ https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_an
 - [Logarr](https://github.com/Monitorr/logarr) - Self-hosted PHP web app that consolidates, formats and displays logs for your \*arrs.
 - [Monitorr](https://github.com/Monitorr/Monitorr) - Self-hosted PHP web app that monitors the status of local and remote network services, websites and applications.
 - [Showly](https://github.com/michaldrabik/showly-2.0) - Android TV Shows Tracker.
-- 
 
 ### Scrapers
 oh lawd he scrapin'
@@ -86,6 +89,8 @@ oh lawd he scrapin'
 - [CutTheCord](https://gitdab.com/distok/cutthecord) - Alternative Discord client for Android.
 - [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - Grabs your OS info and displays it as a rich presence.
 - [PSDiscord](https://github.com/EvotecIT/PSDiscord) - Simple PowerShell module allowing to send messages to Discord channels over webhooks.
+- [Discord-Archiver](https://github.com/nektro/discord-archiver) - A chat archiver written in Zig.
+- [DiscordInflux](https://github.com/terorie/discord-influx) - Discord to InfluxDB metrics exporter.
 
 ### Research & Proof of Concepts
 - [Apple_Bleee](https://github.com/hexway/apple_bleee) - Experimental PoC that shows what an attacker gets from Apple devices if they sniff Bluetooth traffic.
@@ -124,6 +129,10 @@ oh lawd he scrapin'
 - [r77](https://github.com/bytecode77/r77-rootkit) - Ring 3 rootkit with single file installer and fileless persistence.
 - [Avet](https://github.com/govolution/avet) - Anti Virus evasion tool.
 - [ZKTeco-Backdoor](https://github.com/shihaamabr/backdoortft-android/) - A backdoor for ZKTeco devices, popular in the Maldives.
+- [xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch information about any public Google document.
+- [AWS-Nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account.
+- [Cloudflare Bypass](https://github.com/jychp/cloudflare-bypass) -  I mean, it's in the name.
+- [Rewind](https://github.com/Neo23x0/Rewind) - Immediate virus infection counter measures.
 
 ### Anti-Censorship
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Blocks passive DPI, cirmcumvents active DPI. Windows only.
@@ -135,14 +144,25 @@ oh lawd he scrapin'
 - [Bibliogram](https://github.com/cloudrac3r/bibliogram/) - Instagram. :blue_heart:
 - [Invidious](https://github.com/omarroth/invidious/) - YouTube. :green_heart:
 - [Nitter](https://github.com/zedeus/nitter/) - Twitter. :green_heart:
-- [Searx](https://github.com/asciimoo/searx) - Search engine. :green_heart:
+- [Searx](https://github.com/asciimoo/searx) - Metasearch engine. :green_heart:
 - [G Desktop Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Sutie as a desktop app.
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - YouTube app for desktop and mobile. Non-Google, of course.
 - [Teddit](https://codeberg.org/teddit/teddit) - Reddit. :blue_heart:
+- [Whoogle](https://github.com/benbusby/whoogle-search) - Metasearch engine.
+- [YaCy](https://yacy.net/) - Meatsearch engine, but also allows for Intranet search. 👩🏼‍🤝‍🧑🏼
 
 ### File Sharing
-Not many repos but I don't care, my bookmarks folder is getting big.
 - [Skynet](https://siasky.net/) - Decentralised CDN and file sharing platform. :blue_heart:
+- [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely. 👩🏼‍🤝‍🧑🏼 :green_heart:
+- [Magic Wormhole GUI](https://github.com/Jacalz/wormhole-gui) - One of a few dozen interfaces for the aforementioned wormhole. 👩🏼‍🤝‍🧑🏼
+- [croc](https://github.com/schollz/croc) - Like the Wormhole, but written in Go. Allows for encryption, passing over Tor, restarting transfers and more. 👩🏼‍🤝‍🧑🏼
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - A BitTorrent client in Qt. 🏼‍🤝‍🧑🏼 :green_heart:
+- [mTorrent](https://github.com/nektro/mtorrent) - A totally configurable terminal torrent client. 🏼‍🤝‍🧑🏼
+
+### Chat Programs
+- [qTox](https://qtox.github.io/) - Chat, voice, video and file transfer client using the Tox protocol. 👩🏼‍🤝‍🧑🏼
+- [Element](https://element.io/) - A secure chat app using the Matrix network, protected by proper end-to-end encryption with many homeservers available. :green_heart:
+- [Matrix Homeserver List](https://publiclist.anchel.nl/) - A list of all known public homeservers for the above chat client.
 
 ### Terminal / CLI
 - [HTTPie](https://github.com/jakubroztocil/httpie) - Replacement for curl. It's great. :green_heart:
@@ -160,17 +180,21 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [VisiData](https://www.visidata.org/) - Data science, but in your terminal.
 - [SunPaper](ttps://github.com/hexive/sunpaper) - Changes wallpaper based on sunset and sunrise times.
 - [Banement's shell scripts](https://github.com/BanementI/shell-scripts) - Scripts that improve my Linux user experience. :orange_heart:
+- [jdupes](https://github.com/jbruchon/jdupes) - Duplicate file finder and an enhanced fork of fdupes.
+- [xplr](https://github.com/sayanarijit/xplr) - Minimal, fast TUI file explorer.
 
 ### Ricing
 - [Soundcloud-QuiteDark](https://github.com/BanementI/Soundcloud-QuiteDark) - An unauthorised continutation of a dark theme for SoundCloud. :orange_heart:
 - [Arktik](https://github.com/BanementI/arktik) - A cold, seaside themed desktop. :orange_heart:
 - [PyWal](https://github.com/dylanaraps/pywal) - Generate and change colour schemes on the fly.
 
-### Servers
+### Servers & Security
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
 - [Impostor](https://github.com/AeonLucid/Impostor) - Among Us private server.
 - [Youtube-DL-Server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [CapOver](https://caprover.com/) - Build your own PaaS in a few minutes.
+- [Nginx L7 Defense](https://github.com/theraw/The-World-Is-Yours) - Layer 7 DDoS protection.
+- [mkcert](https://github.com/FiloSottile/mkcert) - A simple tool for making locally-trusted development certificates.
 
 ### Browsers
 - [Firefox](https://archive.mozilla.org/pub/firefox/releases/) - Source can be found by selection desired version, then the "source" folder, then download the tar. :green_heart:
@@ -182,6 +206,7 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [Tor](https://www.torproject.org/) - Lets you connect to the deep web, as well as avoiding censorship in strict countries.
 - [Chromium](https://source.chromium.org/) - The base for Google Chrome, Microsoft Edge and Opera.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chromium, but removes the Google web server dependacy. :green_heart:
+- [WOOB](https://woob.tech/) - Web Outside Of Browsers. So technically, it's not a browser, but a collection of applications that are able to interact with websites.
 
 ### Browser Addons
 - [SponserBlock](https://github.com/ajayyy/SponsorBlock) - Skip sponsorships in videos, all community reported. [Has it's own API](https://github.com/ajayyy/SponsorBlockServer). :green_heart:
@@ -216,6 +241,9 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Calculate...power supply.
 - [DevDocs](https://github.com/freeCodeCamp/devdocs) - Fast, offline and free documentation browser for developers.
 - [JSON Editor](http://jsoneditoronline.org/) - I mean, it's in the name, innit?
+- [Useful Forks](https://useful-forks.github.io/) - Find useful forks of github projects. :blue_heart:
+- [Github Metrics](https://github.com/lowlighter/metrics) - Make fancy graphs for your GitHub profile.
+- [CyberChef](https://github.com/gchq/CyberChef) - A web app for encryption, encoding, compression and data analysis.
 
 ### Bootable USB OS
 - [ShredOS](https://github.com/PartialVolume/shredos.2020.02) - Sole purpose of securely erasing the entire contents of your disks using [nwipe](https://github.com/martijnvanbrummelen/nwipe).
@@ -230,6 +258,9 @@ Not many repos but I don't care, my bookmarks folder is getting big.
 - [HAC](https://github.com/Yushe/HAC) - HeX's Anti Cheat for GMod. Infamous for being very aggressive.
 - [AmongUsMemory](https://github.com/shlifedev/AmongUsMemory) - Among Us cheat, shows the current players and who is impostor.
 - [AmongUsInternal](https://github.com/Octavia123/Among-Us-Internal) - Ditto, but internal.
+
+### Games
+- [abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game.
 
 ### File Cleaners
 - [Czkawka](https://github.com/qarmin/czkawka) - Windows and Linux, CLI or GUI. Find duplicate files, broken symlinks, empty folders, etc. :green_heart:
@@ -280,7 +311,8 @@ ah yes, the "I might need this in the future" pile.
 - [LinuxServer](https://www.linuxserver.io/) - The largest collection of Docker images.
 - [Ignite](https://github.com/weaveworks/ignite) Virtual Machine manager.
 - [uwu](https://github.com/uwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu/uwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuuwuwuwuwuwuwuwuwuwuwuw) - A random repository of fork bombs made in a dozen languages that endlessly print uwu.
-
+- [A very long list of SSDs](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit#gid=0) - Found an SSD? Want to know more? Here you go?
+- [mold](https://github.com/rui314/mold) - A high performance, drop-in replacement for existing Unix linkers.
 
 ### To make a summery out of:
 https://github.com/kaitai-io/kaitai_struct
@@ -288,3 +320,14 @@ https://urbit.org/
 https://ciechanow.ski/color-spaces/
 https://www.11ty.dev/docs/
 https://github.com/martijnvanbrummelen/nwipe
+https://www.syntropystack.com/
+http://koken.me/
+https://enso.org/
+https://github.com/porech/engarde
+https://kallithea-scm.org/
+https://github.com/overcast07/wayback-machine-spn-scripts
+https://docs.google.com/document/d/1Nsv52MvSjbLb2PCpHlat0gkzw0EvtSgpKHu4mk0MnrA/edit
+https://pijul.org/
+https://github.com/meeb/tubesync
+https://cdn.discordapp.com/attachments/463300772088774656/829210645857435668/EyTXCUlXMAU-d2Q.png
+https://github.com/nvuillam/mega-linter
