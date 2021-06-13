@@ -92,6 +92,7 @@ oh lawd he scrapin'
 - [Discord-Archiver](https://github.com/nektro/discord-archiver) - A chat archiver written in Zig.
 - [DiscordInflux](https://github.com/terorie/discord-influx) - Discord to InfluxDB metrics exporter.
 - [Data Package Explorer](https://github.com/Androz2091/discord-data-package-explorer) - Get statistics on your Discord data collection.
+- [Among Us Dumpy Bot](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker) - Make Among Us twerking gifs out of any image.
 
 ### Research & Proof of Concepts
 - [Apple_Bleee](https://github.com/hexway/apple_bleee) - Experimental PoC that shows what an attacker gets from Apple devices if they sniff Bluetooth traffic.
