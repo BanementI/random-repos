@@ -251,7 +251,8 @@ oh lawd he scrapin'
 ### Bootable USB OS
 - [ShredOS](https://github.com/PartialVolume/shredos.2020.02) - Sole purpose of securely erasing the entire contents of your disks using [nwipe](https://github.com/martijnvanbrummelen/nwipe).
 - [Ventoy](https://github.com/ventoy/Ventoy) - Bootable USB solution that allows you to creative live OSs on the go. 
-- [Shrine](https://github.com/minexew/Shrine) - TempleOS for heretics. Aims to improve on TempleOS in sveral ways, while still maintaining support for Terry's applications.
+- [Shrine](https://github.com/minexew/Shrine) - TempleOS for heretics. Aims to improve on TempleOS in several ways, while still maintaining support for Terry's applications.
+- [ZenithOS](https://github.com/ZenithOS/ZenithOS) - 64 Bit fork of TempleOS with more changes.
 
 ### Cheats and anti-cheat
 - [PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for games, but can be used for anything.
