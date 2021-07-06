@@ -270,6 +270,10 @@ oh lawd he scrapin'
 - [Czkawka](https://github.com/qarmin/czkawka) - Windows and Linux, CLI or GUI. Find duplicate files, broken symlinks, empty folders, etc. :green_heart:
 - [BleachBit](https://www.bleachbit.org/download/source) - Windows and Linux, GUI. :green_heart:
 
+### Audio & File Editing
+- [SneedCity](https://github.com/temporary-audacity/audacity) - A fork of Audacity without the telemetry. Also it's not called SneedCity, they're voting on a name.#
+- [LosslessCut](https://mifi.github.io/lossless-cut/) - A lightweight, portable, quick video cutting program.
+
 ### Other?
 ah yes, the "I might need this in the future" pile.
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Batch scripts to activate Microsoft products using HWID, KMS38 or Online KMS methods. :green_heart:
