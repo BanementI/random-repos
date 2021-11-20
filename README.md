@@ -42,6 +42,9 @@ A repository in a repository?
 - [manga-downloader](https://github.com/manga-download/hakuneko) - Manga & Anime downloader for Linux, Windows and MacOS.
 - [khna-dl](https://github.com/rand-net/khan-dl) - Download courses from khanacademy and names them too.
 - [OverDrive](https://github.com/chbrown/overdrive) - Bash script to download MP3s from the OverDrive audiobook service.
+- [Waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
+- [Nuclear](https://github.com/nukeop/nuclear) - A streaming music player that finds free music for you.
+- [zspotify](https://github.com/Footsiefat/zspotify) - Spotify downloader needing only a Python interpreter and FFMPEG.
 
 ### The \*arr suite
 Things that go hand in hand with Sonarr.
@@ -135,6 +138,9 @@ oh lawd he scrapin'
 - [AWS-Nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account.
 - [Cloudflare Bypass](https://github.com/jychp/cloudflare-bypass) -  I mean, it's in the name.
 - [Rewind](https://github.com/Neo23x0/Rewind) - Immediate virus infection counter measures.
+- [SuperUser](https://github.com/Footsiefat/SuperUser) - Easy and undeteted admin elevation.
+- [Skeelog](https://github.com/Footsiefat/Skeelog) - Undetected keylogger.
+- [Hello World but in Rust](https://github.com/mTvare6/hello-world.rs) - A memory safe, blazing fast, minimal "Hello World" written in rust with a few dependancies.
 
 ### Anti-Censorship
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Blocks passive DPI, cirmcumvents active DPI. Windows only.
@@ -161,6 +167,8 @@ oh lawd he scrapin'
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - A BitTorrent client in Qt. 🏼‍🤝‍🧑🏼 :green_heart:
 - [mTorrent](https://github.com/nektro/mtorrent) - A totally configurable terminal torrent client. 🏼‍🤝‍🧑🏼
 - [Arbitrary Data To Video](https://github.com/fangfufu/Converting-Arbitrary-Data-To-Video) - Shell scripts to convert a file to a video, and back! Infinite storage. :blue_heart:
+- [SpreadsheetFS](https://github.com/GunshipPenguin/spreadsheetfs) - Use Google Sheets as a filesystem.
+- [InfiDrive with OpenStego](https://github.com/simmons2714/InfiniDrive-OpenStego) - A fork of InfiDrive.
 
 ### Chat Programs
 - [qTox](https://qtox.github.io/) - Chat, voice, video and file transfer client using the Tox protocol. 👩🏼‍🤝‍🧑🏼
@@ -185,6 +193,7 @@ oh lawd he scrapin'
 - [Banement's shell scripts](https://github.com/BanementI/shell-scripts) - Scripts that improve my Linux user experience. :orange_heart:
 - [jdupes](https://github.com/jbruchon/jdupes) - Duplicate file finder and an enhanced fork of fdupes.
 - [xplr](https://github.com/sayanarijit/xplr) - Minimal, fast TUI file explorer.
+- [jPhotoDNA](https://github.com/jankais3r/jPhotoDNA) - CLI Java wrapper for the PhotoDNA library.
 
 ### Ricing
 - [Soundcloud-QuiteDark](https://github.com/BanementI/Soundcloud-QuiteDark) - An unauthorised continutation of a dark theme for SoundCloud. :orange_heart:
@@ -220,6 +229,9 @@ oh lawd he scrapin'
 - [ViolentMonkey](https://github.com/violentmonkey/violentmonkey) - Userscript manager, not to be confused with Tampermonkey (a closed source addon). :green_heart:
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) - Uncensor Google search results.
 
+### UserScripts
+- [Bypass YouTube Age Restriction](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - Bypasses the age restriction on YouTube.
+
 ### Burners
 - [Burn Notice](https://github.com/burn-notice/burn-notice)
 - [AnonAddy](https://github.com/anonaddy/anonaddy)
@@ -236,6 +248,7 @@ oh lawd he scrapin'
 ### Android Apps
 - [Warden](https://gitlab.com/AuroraOSS/AppWarden) - Scans your Android device for apps that have tracker and loggers.
 - [LibGen-Scan](https://github.com/nfd9001/Libgen-Scan) - Scan a barcode, get the book on your phone. :blue_heart:
+- [QKSMS](https://github.com/moezbhatti/qksms) - A replacement for the default Android SMS app.
 
 ### Web Apps
 - [HexEd.it](https://hexed.it/) - Browser-based online and offline hex editor.
@@ -262,6 +275,7 @@ oh lawd he scrapin'
 - [HAC](https://github.com/Yushe/HAC) - HeX's Anti Cheat for GMod. Infamous for being very aggressive.
 - [AmongUsMemory](https://github.com/shlifedev/AmongUsMemory) - Among Us cheat, shows the current players and who is impostor.
 - [AmongUsInternal](https://github.com/Octavia123/Among-Us-Internal) - Ditto, but internal.
+- [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Scan and scrape a lot of Minecraft servers.
 
 ### Games
 - [abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game.
