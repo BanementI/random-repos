@@ -276,6 +276,8 @@ oh lawd he scrapin'
 - [AmongUsMemory](https://github.com/shlifedev/AmongUsMemory) - Among Us cheat, shows the current players and who is impostor.
 - [AmongUsInternal](https://github.com/Octavia123/Among-Us-Internal) - Ditto, but internal.
 - [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Scan and scrape a lot of Minecraft servers.
+- [Meteor](https://meteorclient.com/) - Hacked client for Minecraft.
+- [Wurst](https://www.wurstclient.net/) - Another hacked client for Minecraft.
 
 ### Games
 - [abstreet](https://github.com/a-b-street/abstreet) - A traffic simulation game.
