@@ -60,7 +60,6 @@ https://www.reddit.com/r/radarr/comments/hbwnb2/a_list_of_all_companion_tools_an
 - [Bonarr](https://github.com/bonarr/Bonarr)- For porn. (Dead though).
 - [Traktarr](https://github.com/l3uddz/traktarr) - Script for adding series and movies based on Trakt lists.
 - [Syncarr](https://github.com/syncarr/syncarr) - Sync Radarr, Sonarr or Lidarr instances.
-- [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Automatic health checks on files and scripts to change media containers. For example, reduction in file size with little to no quality loss BUT it requires treancsoding.
 - [Organizr](https://github.com/causefx/Organizr) - Organises all services running into neat tabs with a rich interface.
 - [Ombi](https://github.com/tidusjar/Ombi) - For Plex and Emby.
 - [Bobarr](https://github.com/bonarr/Bonarr) - Radarr, Sonarr and Jackett all together, with a VPN and running in docker.
@@ -338,6 +337,8 @@ ah yes, the "I might need this in the future" pile.
 - [A very long list of SSDs](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit#gid=0) - Found an SSD? Want to know more? Here you go?
 - [mold](https://github.com/rui314/mold) - A high performance, drop-in replacement for existing Unix linkers.
 
+
+
 ### To make a summery out of:
 https://github.com/kaitai-io/kaitai_struct
 https://urbit.org/
@@ -355,3 +356,6 @@ https://pijul.org/
 https://github.com/meeb/tubesync
 https://cdn.discordapp.com/attachments/463300772088774656/829210645857435668/EyTXCUlXMAU-d2Q.png
 https://github.com/nvuillam/mega-linter
+
+### Probably useful, but closed-source
+- [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Automatic health checks on files and scripts to change media containers. For example, reduction in file size with little to no quality loss BUT it requires treancsoding.
