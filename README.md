@@ -286,7 +286,8 @@ oh lawd he scrapin'
 - [BleachBit](https://www.bleachbit.org/download/source) - Windows and Linux, GUI. :green_heart:
 
 ### Audio & File Editing
-- [SneedCity](https://github.com/temporary-audacity/audacity) - A fork of Audacity without the telemetry. Also it's not called SneedCity, they're voting on a name.#
+- [Tenecity](https://github.com/tenacityteam/tenacity) - Audacity but better.
+- [Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity) - Way closer to Audacity with a Sneed theme + no telemetry.
 - [LosslessCut](https://mifi.github.io/lossless-cut/) - A lightweight, portable, quick video cutting program.
 
 ### Other?
