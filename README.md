@@ -169,6 +169,14 @@ oh lawd he scrapin'
 - [SpreadsheetFS](https://github.com/GunshipPenguin/spreadsheetfs) - Use Google Sheets as a filesystem.
 - [InfiDrive with OpenStego](https://github.com/simmons2714/InfiniDrive-OpenStego) - A fork of InfiDrive.
 
+### CLI File Sharing / URL Shortening
+Each has slightly different upload instructions and upload rules (although you should really be encrypting your files first). 
+- [transfer.sh](https://transfer.sh/) 
+- [0x0 - original - 512MiB](https://0x0.st/)
+- [0x0 - ENVS - 512MiB](https://envs.sh/) 
+- [0x0 - tildeverse - 256MiB](https://ttm.sh)
+- [0x0 - boop - 256MiB](https://boop.icu/)
+
 ### Chat Programs
 - [qTox](https://qtox.github.io/) - Chat, voice, video and file transfer client using the Tox protocol. 👩🏼‍🤝‍🧑🏼
 - [Element](https://element.io/) - A secure chat app using the Matrix network, protected by proper end-to-end encryption with many homeservers available. :green_heart:
