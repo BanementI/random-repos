@@ -176,6 +176,7 @@ Each has slightly different upload instructions and upload rules (although you s
 - [0x0 - ENVS - 512MiB](https://envs.sh/) 
 - [0x0 - tildeverse - 256MiB](https://ttm.sh)
 - [0x0 - boop - 256MiB](https://boop.icu/)
+- [tomasino's pb](https://tildegit.org/tomasino/pb) - Wrapper for 0x0 services.
 
 ### Chat Programs
 - [qTox](https://qtox.github.io/) - Chat, voice, video and file transfer client using the Tox protocol. 👩🏼‍🤝‍🧑🏼
