@@ -157,6 +157,8 @@ oh lawd he scrapin'
 - [Teddit](https://codeberg.org/teddit/teddit) - Reddit. :blue_heart:
 - [Whoogle](https://github.com/benbusby/whoogle-search) - Metasearch engine.
 - [YaCy](https://yacy.net/) - Meatsearch engine, but also allows for Intranet search. 👩🏼‍🤝‍🧑🏼
+- [Quetre](https://github.com/zyachel/quetre) - Quora.
+- [libremd](https://libremdb.herokuapp.com/about) - IMDb.
 
 ### File Sharing
 - [Skynet](https://siasky.net/) - Decentralised CDN and file sharing platform. :blue_heart:
