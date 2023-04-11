@@ -24,6 +24,8 @@ A repository in a repository?
 - [Matrix](https://github.com/matrix-org) - A new basis for open, interoperable, decentralised real-time communication. 👩🏼‍🤝‍🧑🏼 
 - [Big Ass Data Broker Opt Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - It's all in the name.
 - [WireGuard-Docs](https://github.com/pirate/wireguard-docs) - Unofficial WireGuard documentation.
+- [samicrusader's file server](https://luca.samicrusader.me/) - Somebody's file server that contains some interesting stuff like WHQL signed drivers and some Windows ISOs.
+
 
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites. :green_heart:
@@ -140,6 +142,9 @@ oh lawd he scrapin'
 - [SuperUser](https://github.com/Footsiefat/SuperUser) - Easy and undeteted admin elevation.
 - [Skeelog](https://github.com/Footsiefat/Skeelog) - Undetected keylogger.
 - [Hello World but in Rust](https://github.com/mTvare6/hello-world.rs) - A memory safe, blazing fast, minimal "Hello World" written in rust with a few dependancies.
+- [ChatGPT Developer Mode](https://github.com/0xk1h0/ChatGPT_DAN) - Ways to make ChatGPT output unmoderated code (jailbreaking).
+- [ChatGPT Jailbreaking](https://github.com/tg12/gpt_jailbreak_status/blob/main/gpt_jb.csv) - More ways to jailbreak ChatGPT.
+
 
 ### Anti-Censorship
 - [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - Blocks passive DPI, cirmcumvents active DPI. Windows only.
@@ -161,7 +166,7 @@ oh lawd he scrapin'
 - [libremd](https://libremdb.herokuapp.com/about) - IMDb.
 
 ### File Sharing
-- [Skynet](https://siasky.net/) - Decentralised CDN and file sharing platform. :blue_heart:
+- [Skynet](https://siasky.net/) - Decentralised CDN and file sharing platform. 
 - [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely. 👩🏼‍🤝‍🧑🏼 :green_heart:
 - [Magic Wormhole GUI](https://github.com/Jacalz/wormhole-gui) - One of a few dozen interfaces for the aforementioned wormhole. 👩🏼‍🤝‍🧑🏼
 - [croc](https://github.com/schollz/croc) - Like the Wormhole, but written in Go. Allows for encryption, passing over Tor, restarting transfers and more. 👩🏼‍🤝‍🧑🏼
@@ -179,6 +184,8 @@ Each has slightly different upload instructions and upload rules (although you s
 - [0x0 - tildeverse - 256MiB](https://ttm.sh)
 - [0x0 - boop - 256MiB](https://boop.icu/)
 - [tomasino's pb](https://tildegit.org/tomasino/pb) - Wrapper for 0x0 services.
+- [Fileditch](https://fileditch.com/)
+- [Pixeldrain](https://pixeldrain.com/) - Uses Reed-Soloman codes to split files across 12 servers, theoretically making it faster to download. Based on the Sia network.
 
 ### Chat Programs
 - [qTox](https://qtox.github.io/) - Chat, voice, video and file transfer client using the Tox protocol. 👩🏼‍🤝‍🧑🏼
@@ -217,6 +224,7 @@ Each has slightly different upload instructions and upload rules (although you s
 - [CapOver](https://caprover.com/) - Build your own PaaS in a few minutes.
 - [Nginx L7 Defense](https://github.com/theraw/The-World-Is-Yours) - Layer 7 DDoS protection.
 - [mkcert](https://github.com/FiloSottile/mkcert) - A simple tool for making locally-trusted development certificates.
+- [IP Blackhole](https://github.com/BlackHoleMonster/IP-BlackHole) - IP blacklist.
 
 ### Browsers
 - [Firefox](https://archive.mozilla.org/pub/firefox/releases/) - Source can be found by selection desired version, then the "source" folder, then download the tar. :green_heart:
@@ -259,6 +267,8 @@ Each has slightly different upload instructions and upload rules (although you s
 - [Warden](https://gitlab.com/AuroraOSS/AppWarden) - Scans your Android device for apps that have tracker and loggers.
 - [LibGen-Scan](https://github.com/nfd9001/Libgen-Scan) - Scan a barcode, get the book on your phone. :blue_heart:
 - [QKSMS](https://github.com/moezbhatti/qksms) - A replacement for the default Android SMS app.
+- [RootlessJamesDSP](https://f-droid.org/packages/me.timschneeberger.rootlessjamesdsp/) - Use JamesDSP as a system-wide audio processing engine without any root access.
+
 
 ### Web Apps
 - [HexEd.it](https://hexed.it/) - Browser-based online and offline hex editor.
