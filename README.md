@@ -26,10 +26,6 @@ A repository in a repository?
 - [WireGuard-Docs](https://github.com/pirate/wireguard-docs) - Unofficial WireGuard documentation.
 - [samicrusader's file server](https://luca.samicrusader.me/) - Somebody's file server that contains some interesting stuff like WHQL signed drivers and some Windows ISOs.
 
-### Tutorials & Guides
-- [based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A minimalistic website with straightforward cooking recipes.
-
-
 ### Downloaders
 - [gallery-dl](https://github.com/mikf/gallery-dl/) - Command-line program to download image-galleries and -collections from several image hosting sites. :green_heart:
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - A must have command-line program to download YouTube videos with support for other sites such as Reddit, Twitter, Soundcloud, etc. [**Fuck the RIAA**](https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md) :green_heart:
