@@ -144,6 +144,7 @@ oh lawd he scrapin'
 - [Hello World but in Rust](https://github.com/mTvare6/hello-world.rs) - A memory safe, blazing fast, minimal "Hello World" written in rust with a few dependancies.
 - [ChatGPT Developer Mode](https://github.com/0xk1h0/ChatGPT_DAN) - Ways to make ChatGPT output unmoderated code (jailbreaking).
 - [ChatGPT Jailbreaking](https://github.com/tg12/gpt_jailbreak_status/blob/main/gpt_jb.csv) - More ways to jailbreak ChatGPT.
+- [DMMVRPlayer Crack](https://rentry.org/wsdcf_ck_11r2) - Not exactly a repo, nor is it open source, but it is a reverse-engineered tool to crack wsdcf files. 
 
 
 ### Anti-Censorship
